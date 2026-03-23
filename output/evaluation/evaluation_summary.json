@@ -1,0 +1,98 @@
+[
+  {
+    "audio_id": "038010_EIT-2A",
+    "model": "openai",
+    "wer": 0.321,
+    "cer": 0.271,
+    "ser": 0.767,
+    "exact_matches": 7
+  },
+  {
+    "audio_id": "038010_EIT-2A",
+    "model": "crisper_whisper",
+    "wer": 0.398,
+    "cer": 0.3,
+    "ser": 0.867,
+    "exact_matches": 4
+  },
+  {
+    "audio_id": "038010_EIT-2A",
+    "model": "assemblyai_disfluencies",
+    "wer": 0.574,
+    "cer": 0.453,
+    "ser": 0.867,
+    "exact_matches": 4
+  },
+  {
+    "audio_id": "038011_EIT-1A",
+    "model": "openai",
+    "wer": 0.454,
+    "cer": 0.307,
+    "ser": 0.867,
+    "exact_matches": 4
+  },
+  {
+    "audio_id": "038011_EIT-1A",
+    "model": "crisper_whisper",
+    "wer": 0.474,
+    "cer": 0.314,
+    "ser": 0.9,
+    "exact_matches": 3
+  },
+  {
+    "audio_id": "038011_EIT-1A",
+    "model": "assemblyai_disfluencies",
+    "wer": 0.506,
+    "cer": 0.353,
+    "ser": 0.933,
+    "exact_matches": 2
+  },
+  {
+    "audio_id": "038012_EIT-2A",
+    "model": "openai",
+    "wer": 0.831,
+    "cer": 0.629,
+    "ser": 1.0,
+    "exact_matches": 0
+  },
+  {
+    "audio_id": "038012_EIT-2A",
+    "model": "crisper_whisper",
+    "wer": 0.763,
+    "cer": 0.498,
+    "ser": 1.0,
+    "exact_matches": 0
+  },
+  {
+    "audio_id": "038012_EIT-2A",
+    "model": "assemblyai_disfluencies",
+    "wer": 0.811,
+    "cer": 0.63,
+    "ser": 1.0,
+    "exact_matches": 0
+  },
+  {
+    "audio_id": "038015_EIT-1A",
+    "model": "openai",
+    "wer": 0.309,
+    "cer": 0.206,
+    "ser": 0.767,
+    "exact_matches": 7
+  },
+  {
+    "audio_id": "038015_EIT-1A",
+    "model": "crisper_whisper",
+    "wer": 0.353,
+    "cer": 0.202,
+    "ser": 0.833,
+    "exact_matches": 5
+  },
+  {
+    "audio_id": "038015_EIT-1A",
+    "model": "assemblyai_disfluencies",
+    "wer": 0.418,
+    "cer": 0.239,
+    "ser": 0.9,
+    "exact_matches": 3
+  }
+]

@@ -1,0 +1,41 @@
+# Audio processing
+pydub
+
+# Local Whisper / VAD
+openai-whisper
+torch
+torchaudio
+torchcodec
+
+# Cloud APIs
+openai
+google-cloud-speech
+deepgram-sdk
+assemblyai
+
+# Data handling
+openpyxl
+pandas
+
+# Speaker detection (install speechbrain from GitHub for torchaudio 2.10+ compatibility)
+git+https://github.com/speechbrain/speechbrain.git
+resemblyzer
+
+# CrisperWhisper - verbatim transcription (custom transformers fork for best timestamps)
+git+https://github.com/nyrahealth/transformers.git@crisper_whisper
+faster-whisper
+accelerate
+
+# Text matching (stimulus identification in transcripts)
+rapidfuzz
+
+# Notebook & visualization
+jupyter
+matplotlib
+
+# Testing
+pytest
+
+# Utilities
+python-dotenv
+jiwer

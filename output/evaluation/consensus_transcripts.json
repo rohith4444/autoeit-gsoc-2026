@@ -1,0 +1,1210 @@
+{
+  "038010_EIT-2A": [
+    {
+      "sentence_num": 1,
+      "text": "Quiero cortarme el pelo.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Quiero cortarme el pelo.",
+        "crisper_whisper": "Quiero cortarme el pelo.",
+        "assemblyai_disfluencies": "Quiero cortarme el pelo."
+      }
+    },
+    {
+      "sentence_num": 2,
+      "text": "El libro está en la mesa.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "El libro está en la mesa.",
+        "crisper_whisper": "El libro esta en la mesa.",
+        "assemblyai_disfluencies": "El libro está en la mesa."
+      }
+    },
+    {
+      "sentence_num": 3,
+      "text": "El carro no tiene pelo.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El carro no tiene pelo.",
+        "crisper_whisper": "El carro lo tiene pelo.",
+        "assemblyai_disfluencies": "A Carol lo tiene pelo."
+      }
+    },
+    {
+      "sentence_num": 4,
+      "text": "Ese duche cada mañana.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Ese duche cada mañana.",
+        "crisper_whisper": "Essay duche cada mañana.",
+        "assemblyai_disfluencies": "Essay. Uh, ducek caramanana."
+      }
+    },
+    {
+      "sentence_num": 5,
+      "text": "¿Qué dices, deres que va a ser hoy?",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "¿Qué dices, deres que va a ser hoy?",
+        "crisper_whisper": "¿Que dices teres que van ser hoy?",
+        "assemblyai_disfluencies": "This is, that is Kevin share hoy."
+      }
+    },
+    {
+      "sentence_num": 6,
+      "text": "Dudo que sepa manejar muy bien.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Dudo que sepa manejar muy bien.",
+        "crisper_whisper": "Dudo que sepa manejar muy bien.",
+        "assemblyai_disfluencies": "Duro kesepa um maneha muy bien."
+      }
+    },
+    {
+      "sentence_num": 7,
+      "text": "Las calles de esta ciudad son muy anchas.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Las calles de esta ciudad son muy anchas.",
+        "crisper_whisper": "Las calles de este ciudad son muy anches.",
+        "assemblyai_disfluencies": "Laskai stayanchas m."
+      }
+    },
+    {
+      "sentence_num": 8,
+      "text": "Puede que llueva mañana todo el día.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Puede que llueva mañana todo el día.",
+        "crisper_whisper": "Puede que lleve mañana todo el día.",
+        "assemblyai_disfluencies": "Todo el día."
+      }
+    },
+    {
+      "sentence_num": 9,
+      "text": "Las casas son muy bonitas pero caras.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Las casas son muy bonitas pero caras.",
+        "crisper_whisper": "Las casas son muy bonitas, pero caras.",
+        "assemblyai_disfluencies": "Las casas son muy bonitas, pero caras."
+      }
+    },
+    {
+      "sentence_num": 10,
+      "text": "Me gustan las películas que caben bien.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Me gustan las películas que caben bien.",
+        "crisper_whisper": "Me gustan las películas que acaban bien.",
+        "assemblyai_disfluencies": "Me gusta las películas que cavan bien."
+      }
+    },
+    {
+      "sentence_num": 11,
+      "text": "El chico que algo es español.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "El chico que hago es español.",
+        "crisper_whisper": "El chico que algo es español.",
+        "assemblyai_disfluencies": "El chico que algo es español."
+      }
+    },
+    {
+      "sentence_num": 12,
+      "text": "Después de cenar, me fui a dormir tranquilo.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Después de cenar, me fui a dormir tranquilo.",
+        "crisper_whisper": "Después de cener, me fui a dormir tranquilo.",
+        "assemblyai_disfluencies": "Después de cenar me fui a dormir tranquilo."
+      }
+    },
+    {
+      "sentence_num": 13,
+      "text": "Quiero una casa en la que vivan animales.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Quiero una casa en la que vivan animales.",
+        "crisper_whisper": "Quiero una casa en la que vivan animales.",
+        "assemblyai_disfluencies": "Quiero una casa en la que vivan animales."
+      }
+    },
+    {
+      "sentence_num": 14,
+      "text": "a nosotros",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "a nosotros",
+        "crisper_whisper": "A nosotros.",
+        "assemblyai_disfluencies": "A nosotros."
+      }
+    },
+    {
+      "sentence_num": 15,
+      "text": "Ella sola bebe cerveza y no come nada.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Ella solo bebe cerveza y no come nada.",
+        "crisper_whisper": "Ella sola bebe cerveza y no come nada.",
+        "assemblyai_disfluencies": "Ella sola bebe cerveza y no come nada."
+      }
+    },
+    {
+      "sentence_num": 16,
+      "text": "Me gustaría...",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Me gustaría...",
+        "crisper_whisper": "Me gustaría.",
+        "assemblyai_disfluencies": "Middle sterea."
+      }
+    },
+    {
+      "sentence_num": 17,
+      "text": "Cursa a la derecha y después siga recto.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Cursa a la derecha y después siga recto.",
+        "crisper_whisper": "Cursa a la derecha y después siga recto.",
+        "assemblyai_disfluencies": "Después siga recto."
+      }
+    },
+    {
+      "sentence_num": 18,
+      "text": "Ella termina de pintar su apartamento.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Ella termina de pintar su apartamento.",
+        "crisper_whisper": "Al terminar, pinta su apartamento.",
+        "assemblyai_disfluencies": "Ella terminar pinta su apartamento."
+      }
+    },
+    {
+      "sentence_num": 19,
+      "text": "Gracias.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Gracias.",
+        "crisper_whisper": "",
+        "assemblyai_disfluencies": "[ERROR: language_detection cannot be performed on files with no spoken audio.]"
+      }
+    },
+    {
+      "sentence_num": 20,
+      "text": "El niño a que se murió el gato, triste.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "El niño a que se murió el gato, triste.",
+        "crisper_whisper": "El niño, a que se murió el gato, triste.",
+        "assemblyai_disfluencies": "El niño a que se murió el gato triste."
+      }
+    },
+    {
+      "sentence_num": 21,
+      "text": "Una amiga mía cuidó a los niños.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Una amiga mía cuidó a los niños.",
+        "crisper_whisper": "La amiga mia cuidao los ninos.",
+        "assemblyai_disfluencies": "Amiga mia, cuidado los niños."
+      }
+    },
+    {
+      "sentence_num": 22,
+      "text": "El gato que era negro.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El gato que era negro.",
+        "crisper_whisper": "El gato queda negro.",
+        "assemblyai_disfluencies": "El gato kara negro."
+      }
+    },
+    {
+      "sentence_num": 23,
+      "text": "Antes de poder salir, tiene que limpiar su cuarto.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Antes de poder salir, tiene que limpiar su cuarto.",
+        "crisper_whisper": "Antes de poder salir, tiene que limpiar su cuarto.",
+        "assemblyai_disfluencies": "Antes de poder salir tiene que limpiar su corto."
+      }
+    },
+    {
+      "sentence_num": 24,
+      "text": "la cantidad de personas que fuman.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "la cantidad de personas que fuman.",
+        "crisper_whisper": "La cantidad de personas que fuman.",
+        "assemblyai_disfluencies": "La cantidad de personas que fuman."
+      }
+    },
+    {
+      "sentence_num": 25,
+      "text": "Después de llegar a casa",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Después de llegar a casa",
+        "crisper_whisper": "Después de llegar a Casa.",
+        "assemblyai_disfluencies": "Displace the gara casa. Uh."
+      }
+    },
+    {
+      "sentence_num": 26,
+      "text": "El ladrón policía era famoso.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "El ladrón policía era famoso.",
+        "crisper_whisper": "El ladrón policía era famoso.",
+        "assemblyai_disfluencies": "El ladrón policía era famoso."
+      }
+    },
+    {
+      "sentence_num": 27,
+      "text": "Le pedí a un amigo que ayudara a traerla.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Le pedí a un amigo que ayudara a traerla.",
+        "crisper_whisper": "Le pidió a un amigo que lo ayudara.",
+        "assemblyai_disfluencies": "친한 친구가 도와줬어요"
+      }
+    },
+    {
+      "sentence_num": 28,
+      "text": "Examen no tan difícil.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Examen no tan difícil.",
+        "crisper_whisper": "I examine no tan difícil.",
+        "assemblyai_disfluencies": "Examine no tantific."
+      }
+    },
+    {
+      "sentence_num": 29,
+      "text": "Amable que está el libro que está en la mesa.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Amable que está el libro que está en la mesa.",
+        "crisper_whisper": "Amable que esta, el libro que esta en la mesa.",
+        "assemblyai_disfluencies": "Amable que está el libro que está en la mesa."
+      }
+    },
+    {
+      "sentence_num": 30,
+      "text": "Hay mucha gente que no toma nada para desayuno.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Hay mucha gente que no toma nada para desayuno.",
+        "crisper_whisper": "Hay mucha gente que no toma nada para desayunar.",
+        "assemblyai_disfluencies": "[TRANSCRIPTION FAILED]"
+      }
+    }
+  ],
+  "038011_EIT-1A": [
+    {
+      "sentence_num": 1,
+      "text": "Quiero cortarme el pelo.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Quiero cortarme el pelo.",
+        "crisper_whisper": "Quiero cortarme el pelo.",
+        "assemblyai_disfluencies": "Quiero cortarme a pelo."
+      }
+    },
+    {
+      "sentence_num": 2,
+      "text": "El libro está en la mesa.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "El libro está en la mesa.",
+        "crisper_whisper": "El libro esta en la mesa.",
+        "assemblyai_disfluencies": "El libro está en la mesa."
+      }
+    },
+    {
+      "sentence_num": 3,
+      "text": "El carro no tiene pelo.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "El carro no tiene pelo.",
+        "crisper_whisper": "El carro no tiene perro.",
+        "assemblyai_disfluencies": "El carro no tiene pelo."
+      }
+    },
+    {
+      "sentence_num": 4,
+      "text": "A no ser ducha cada mañana.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "A no ser ducha cada mañana.",
+        "crisper_whisper": "El se ducha cada mañana.",
+        "assemblyai_disfluencies": "Ela se ducha cada manhã."
+      }
+    },
+    {
+      "sentence_num": 5,
+      "text": "¿Qué dice usted que va a hacer hoy?",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "¿Qué dice usted que va a hacer hoy?",
+        "crisper_whisper": "Que dices te que va a ser hoy.",
+        "assemblyai_disfluencies": "¿Qué dice usted qué va a hacer hoy?"
+      }
+    },
+    {
+      "sentence_num": 6,
+      "text": "Tuvo que se manejar bien.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Tuvo que se manejar bien.",
+        "crisper_whisper": "Tugo que se manejaran bien.",
+        "assemblyai_disfluencies": "[no response]"
+      }
+    },
+    {
+      "sentence_num": 7,
+      "text": "Los caes en salvar muchas añas.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Los caes en salvar muchas añas.",
+        "crisper_whisper": "Las calles ensaladan muchas añas.",
+        "assemblyai_disfluencies": "Les cais en soledad muchas anas."
+      }
+    },
+    {
+      "sentence_num": 8,
+      "text": "Puede que lleve mañana todo el día.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Puede que lleve mañana todo el día.",
+        "crisper_whisper": "Puede que lleva mañana todo día.",
+        "assemblyai_disfluencies": "Puede que lleva mañana todo el día."
+      }
+    },
+    {
+      "sentence_num": 9,
+      "text": "Las casas son muy bonitas, pero caras.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Las casas son muy bonitas, pero caras.",
+        "crisper_whisper": "Las casas son muy bonitas, pero caras.",
+        "assemblyai_disfluencies": "Las casas son muy bonitas, pero caras."
+      }
+    },
+    {
+      "sentence_num": 10,
+      "text": "Me gusta las películas que acaban bien.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Me gustan las películas que caben bien.",
+        "crisper_whisper": "Me gusta las películas que acaban bien.",
+        "assemblyai_disfluencies": "Me gusta las películas que acaban bien."
+      }
+    },
+    {
+      "sentence_num": 11,
+      "text": "El Chico Conectivo Salgo está bien.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "El Chico Conectivo Salgo está bien.",
+        "crisper_whisper": "El chico colectivo Salgo esta bien.",
+        "assemblyai_disfluencies": "El chico conectivo. Salgo. Está bien."
+      }
+    },
+    {
+      "sentence_num": 12,
+      "text": "Después de cenar, me fui a poner tranquilo.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Después de cenar, me fui a poner tranquilo.",
+        "crisper_whisper": "Después de sanar, me fui a poner tranquilo.",
+        "assemblyai_disfluencies": "Después de cenar me fui a poner tranquilo."
+      }
+    },
+    {
+      "sentence_num": 13,
+      "text": "Quiero una casa que viven a mis animales.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Quiero una casa que viven a mis animales.",
+        "crisper_whisper": "Quiero una casa que viven a mis animales.",
+        "assemblyai_disfluencies": "Quiero una casa que viven a mis animales."
+      }
+    },
+    {
+      "sentence_num": 14,
+      "text": "A nosotros que nos fijes.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "A nosotros que nos fijes.",
+        "crisper_whisper": "A nosotras que las visas.",
+        "assemblyai_disfluencies": "A nosotros que las visas."
+      }
+    },
+    {
+      "sentence_num": 15,
+      "text": "Ella suena la cerveza y como...",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Ella suena la cerveza y como...",
+        "crisper_whisper": "Ella solo cerveza y como.",
+        "assemblyai_disfluencies": "Ela soa de cerveja e como..."
+      }
+    },
+    {
+      "sentence_num": 16,
+      "text": "Me gustaría los precios de los caras para nada.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Me gustaría los precios de los caras para nada.",
+        "crisper_whisper": "Me gustarían los precios de los caras van lava.",
+        "assemblyai_disfluencies": "Me gustaría los precios de las caras para nada."
+      }
+    },
+    {
+      "sentence_num": 17,
+      "text": "Cursa a la derecha y siga derecho.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Cursa a la derecha y siga derecho.",
+        "crisper_whisper": "Cruza la derecha y siga derecho.",
+        "assemblyai_disfluencies": "Kresla la derecha i siga derecho."
+      }
+    },
+    {
+      "sentence_num": 18,
+      "text": "Ella ha terminado los apartamentos.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Ella ha terminado los apartamentos.",
+        "crisper_whisper": "Ella ha terminado losapartamiento.",
+        "assemblyai_disfluencies": "Ella ha terminado los apartamentos."
+      }
+    },
+    {
+      "sentence_num": 19,
+      "text": "Me gustaría las hacer pronto.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Me gustaría las hacer pronto.",
+        "crisper_whisper": "Me gustaría las hacer pronto.",
+        "assemblyai_disfluencies": "Me gustaría las hacer pronto."
+      }
+    },
+    {
+      "sentence_num": 20,
+      "text": "El niño que se murió al gato está triste.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El niño que se murió al gato está triste.",
+        "crisper_whisper": "El niño, que se murió del gato, esta triste.",
+        "assemblyai_disfluencies": "El niño que se murió, el gato está triste."
+      }
+    },
+    {
+      "sentence_num": 21,
+      "text": "Una amiga bien cuidar a los niños a mi vecino.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Una amiga bien cuidar a los niños a mi vecino.",
+        "crisper_whisper": "Una amiga bien cuida de los niños a mi vecino.",
+        "assemblyai_disfluencies": "Una amiga bien cuida los niños a mi vecino."
+      }
+    },
+    {
+      "sentence_num": 22,
+      "text": "El Gato Era Negro y El Perro.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "El gato era negro y el perro era negro.",
+        "crisper_whisper": "El Gato Era Negro y El Perro.",
+        "assemblyai_disfluencies": "El gato era negro y el perro."
+      }
+    },
+    {
+      "sentence_num": 23,
+      "text": "Antes de que salir, fue de cuarto?",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Antes de que salir, fue de cuarto?",
+        "crisper_whisper": "Antes de que salir, fue de cuarto.",
+        "assemblyai_disfluencies": "Antes de que salir puede cuarto."
+      }
+    },
+    {
+      "sentence_num": 24,
+      "text": "La cantidad de las personas fuman que me he salido.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "La cantidad de las personas fuman que me he salido.",
+        "crisper_whisper": "La cantidad de las personas fuman que me he salido.",
+        "assemblyai_disfluencies": "La cantidad de las personas fuman que mis ardillas."
+      }
+    },
+    {
+      "sentence_num": 25,
+      "text": "Después de llegar a la casa, fui a la cena.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Después de llegar a la casa, fui a la cena.",
+        "crisper_whisper": "Después de llegar a la casa, fui a la cena.",
+        "assemblyai_disfluencies": "Después de llegar a la casa, fui a la cena."
+      }
+    },
+    {
+      "sentence_num": 26,
+      "text": "Perdón a la policía, eran famoso.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Perdón a la policía, eran famoso.",
+        "crisper_whisper": "Perdon a la policía, eran famoso.",
+        "assemblyai_disfluencies": "Perdón a la policía, eran famosos."
+      }
+    },
+    {
+      "sentence_num": 27,
+      "text": "Le pedí a un amigo que ayudara con mi tarea.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Le pedí a un amigo que ayudara con mi tarea.",
+        "crisper_whisper": "Le pedí a un amigo que ayude con mi tarea.",
+        "assemblyai_disfluencies": "Le pedí a un amigo que ayudara con mi tarea."
+      }
+    },
+    {
+      "sentence_num": 28,
+      "text": "El examen no fue...",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "El examen no fue...",
+        "crisper_whisper": "El examen no fue.",
+        "assemblyai_disfluencies": "Alexamen no fue."
+      }
+    },
+    {
+      "sentence_num": 29,
+      "text": "Serías amable que lo están...",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Serías amable que lo están...",
+        "crisper_whisper": "Serías amable que lo estan.",
+        "assemblyai_disfluencies": "Serías amable que lo están."
+      }
+    },
+    {
+      "sentence_num": 30,
+      "text": "Hay mucha gente que no tomara el desayuno.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Hay mucha gente que no tomara el desayuno.",
+        "crisper_whisper": "Hay mucha gente que no tomara al desayuno.",
+        "assemblyai_disfluencies": "[no response]"
+      }
+    }
+  ],
+  "038012_EIT-2A": [
+    {
+      "sentence_num": 1,
+      "text": "Quiero cortar el pelo.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Quiero cortar el pelo.",
+        "crisper_whisper": "Quiero cortar el velo.",
+        "assemblyai_disfluencies": "Quiero cortar el pelo."
+      }
+    },
+    {
+      "sentence_num": 2,
+      "text": "El libro está a la mesa.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El libro está a la mesa.",
+        "crisper_whisper": "El libro esta a la mesa.",
+        "assemblyai_disfluencies": "El libro Estala mesa."
+      }
+    },
+    {
+      "sentence_num": 3,
+      "text": "El carro lo tiene a pelo.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El carro lo tiene a pelo.",
+        "crisper_whisper": "El carro lo tiene pelo.",
+        "assemblyai_disfluencies": "Il carro lo tiene a pelo."
+      }
+    },
+    {
+      "sentence_num": 4,
+      "text": "El se duche cada mañana.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El se duche cada mañana.",
+        "crisper_whisper": "Else duche cada mañana.",
+        "assemblyai_disfluencies": "El Seduchara manana."
+      }
+    },
+    {
+      "sentence_num": 5,
+      "text": "¿Qué dice usted que pasa hoy?",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "¿Qué dice usted que pasa hoy?",
+        "crisper_whisper": "Que dijo se que pa’s eroe.",
+        "assemblyai_disfluencies": "[no response]"
+      }
+    },
+    {
+      "sentence_num": 6,
+      "text": "Duros de calezar también.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Duros de calezar también.",
+        "crisper_whisper": "Duros de Calesar tambien.",
+        "assemblyai_disfluencies": "Duros de calzar también."
+      }
+    },
+    {
+      "sentence_num": 7,
+      "text": "La calles se sede a los calles anchas.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "La calles se sede a los calles anchas.",
+        "crisper_whisper": "La callo s sende los calla Santa.",
+        "assemblyai_disfluencies": "Lacayos center."
+      }
+    },
+    {
+      "sentence_num": 8,
+      "text": "y el pueblo sigue en la calle.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "y el pueblo sigue en la calle.",
+        "crisper_whisper": "Pueblo ye que se que ya calla.",
+        "assemblyai_disfluencies": "Pueblo."
+      }
+    },
+    {
+      "sentence_num": 9,
+      "text": "Las casas son bonitas pero caras.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Las casas son bonitas pero caras.",
+        "crisper_whisper": "Las casas son bonitas pero caras.",
+        "assemblyai_disfluencies": "Las casas son bonitas, pero caras."
+      }
+    },
+    {
+      "sentence_num": 10,
+      "text": "Me gustan las películas de Beckard bien.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Me gustan las películas de Beckard bien.",
+        "crisper_whisper": "Me gusta las pelliculas de pecar bien.",
+        "assemblyai_disfluencies": "Me gustan las películas. Peca bien."
+      }
+    },
+    {
+      "sentence_num": 11,
+      "text": "El chico es bonario español.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El chico es bonario español.",
+        "crisper_whisper": "El chico es bonalo es español.",
+        "assemblyai_disfluencies": "El chico esponal es español."
+      }
+    },
+    {
+      "sentence_num": 12,
+      "text": "Después, llegar, dormir...",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Después, llegar, dormir...",
+        "crisper_whisper": "Después, llegar, dormir.",
+        "assemblyai_disfluencies": "Después llegar, dormía."
+      }
+    },
+    {
+      "sentence_num": 13,
+      "text": "Quiero la casa esta a mi animales.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Quiero la casa, esta, a mis animales.",
+        "crisper_whisper": "Quiero la casa esta a mi animales.",
+        "assemblyai_disfluencies": "Quiero la casa esta a mi, animales."
+      }
+    },
+    {
+      "sentence_num": 14,
+      "text": "A nosotros fascinabas, a los nosotros.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "A nosotros fascinabas, a los nosotros.",
+        "crisper_whisper": "A nosotros ofrecen nabas a los nosotros.",
+        "assemblyai_disfluencies": "Lost nosotros."
+      }
+    },
+    {
+      "sentence_num": 15,
+      "text": "Es el conversinos del domingazo.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Es el conversinos del domingazo.",
+        "crisper_whisper": "Es el conversinos del lo Picasso.",
+        "assemblyai_disfluencies": "Conversion del casa."
+      }
+    },
+    {
+      "sentence_num": 16,
+      "text": "Me gustaría que los besos me estas llanando.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Me gustaría que los besos me estas llanando.",
+        "crisper_whisper": "Me gustaría que los besos me estas llanando.",
+        "assemblyai_disfluencies": "Me gustaría que los pesos me están not."
+      }
+    },
+    {
+      "sentence_num": 17,
+      "text": "Cruzar a la derecha.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Cruzar a la derecha.",
+        "crisper_whisper": "Cruzada a la derecha.",
+        "assemblyai_disfluencies": "Cruzar a la derecha."
+      }
+    },
+    {
+      "sentence_num": 18,
+      "text": "El caminado es pas la lamento.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El caminado es pas la lamento.",
+        "crisper_whisper": "Ella, interminando, espasa la lamenta.",
+        "assemblyai_disfluencies": "He terminado espas."
+      }
+    },
+    {
+      "sentence_num": 19,
+      "text": "Me gustaría hacer pincadas. Esta gustaría pronto.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Me gustaría hacer pincadas. Esta gustaría pronto.",
+        "crisper_whisper": "Me gustaria si pingatas esta gustaria pronto",
+        "assemblyai_disfluencies": "Me gustaría hacer pincar esta gustaría pronto."
+      }
+    },
+    {
+      "sentence_num": 20,
+      "text": "El niño Siriocato está muy triste.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El niño Siriocato está muy triste.",
+        "crisper_whisper": "El nino sirio gato es tan muy triste.",
+        "assemblyai_disfluencies": "El niño sirio gato está muy triste."
+      }
+    },
+    {
+      "sentence_num": 21,
+      "text": "Una amiga picalo en mi vecino.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Una amiga picalo en mi vecino.",
+        "crisper_whisper": "Una amiga picado lo en mi me se vino.",
+        "assemblyai_disfluencies": "[TRANSCRIPTION FAILED]"
+      }
+    },
+    {
+      "sentence_num": 22,
+      "text": "El gato tiña negro y el lapero.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El gato tiña negro y el lapero.",
+        "crisper_whisper": "El gato sin y o sin a ne negro y el lapelo.",
+        "assemblyai_disfluencies": "El gato negro y la pedal."
+      }
+    },
+    {
+      "sentence_num": 23,
+      "text": "que es limpiar tus cuartos.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "que es limpiar tus cuartos.",
+        "crisper_whisper": "Que se limpiar tus cuartos.",
+        "assemblyai_disfluencies": "[no response]"
+      }
+    },
+    {
+      "sentence_num": 24,
+      "text": "Pero yo ya me lo he gonfalonado de la gente, de todas las mentiras que se me acaban de contar. Está bien. Lezgo de ahí. Lo weirdo es que me apenas te pregunté cómo estás. Como todo genginazo. Pobre encarnacion. Pero no lo pienso ya. Otras veces... Poco de sorpresa.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Pero yo ya me lo he gonfalonado de la gente, de todas las mentiras que se me acaban de contar. Está bien. Lezgo de ahí. Lo weirdo es que me apenas te pregunté cómo estás. Como todo genginazo. Pobre encarnacion. Pero no lo pienso ya. Otras veces... Poco de sorpresa.",
+        "crisper_whisper": "La cantina lay as a farsino las personas.",
+        "assemblyai_disfluencies": "Lacant liars. Uh."
+      }
+    },
+    {
+      "sentence_num": 25,
+      "text": "Después de llegar a mi casa, voy a la cena.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Después de llegar a mi casa, voy a la cena.",
+        "crisper_whisper": "Después ya llegar a mi casa [UM] fue a la cena.",
+        "assemblyai_disfluencies": "This was. Lacena."
+      }
+    },
+    {
+      "sentence_num": 26,
+      "text": "Policía era famoso.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Policía era famoso.",
+        "crisper_whisper": "Policia era formoso.",
+        "assemblyai_disfluencies": "Water policia era for so."
+      }
+    },
+    {
+      "sentence_num": 27,
+      "text": "le pide de una amiga",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "le pide de una amiga",
+        "crisper_whisper": "La PDE, la UNA, la MEGA.",
+        "assemblyai_disfluencies": "레비디, 레우나, 레미가,"
+      }
+    },
+    {
+      "sentence_num": 28,
+      "text": "La tarea es un no difícil para derecha.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "La tarea es un no difícil para derecha.",
+        "crisper_whisper": "El Torreja esta no difícil para Torreja.",
+        "assemblyai_disfluencies": "El."
+      }
+    },
+    {
+      "sentence_num": 29,
+      "text": "lo que está en la mesa. Este libro está en la mesa.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "lo que está en la mesa. Este libro está en la mesa.",
+        "crisper_whisper": "Okay, esta en la mesa. La es del libro. Es [UM] something en la mesa.",
+        "assemblyai_disfluencies": "[no response]"
+      }
+    },
+    {
+      "sentence_num": 30,
+      "text": "Hay muchos ejemplos, pero...",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Hay muchos ejemplos, pero...",
+        "crisper_whisper": "A mucho emplo, pero oh oh oh.",
+        "assemblyai_disfluencies": "Pero."
+      }
+    }
+  ],
+  "038015_EIT-1A": [
+    {
+      "sentence_num": 1,
+      "text": "Quiero cortarme el pelo.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Quiero cortarme el pelo.",
+        "crisper_whisper": "Quiero recortrarme a Bello.",
+        "assemblyai_disfluencies": "Quiero cortarme a pelo."
+      }
+    },
+    {
+      "sentence_num": 2,
+      "text": "El libro está en la mesa.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El libro está en la mesa.",
+        "crisper_whisper": "El libro esta en la mesa.",
+        "assemblyai_disfluencies": "Alipro star namisa."
+      }
+    },
+    {
+      "sentence_num": 3,
+      "text": "¿El carro no tiene pelo?",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "¿El carro no tiene pelo?",
+        "crisper_whisper": "El carro no tiene pelo.",
+        "assemblyai_disfluencies": "Il carro non tiene pelo."
+      }
+    },
+    {
+      "sentence_num": 4,
+      "text": "Él se ducha cada mañana.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Él se ducha cada mañana.",
+        "crisper_whisper": "Elsa ducha cada mañana.",
+        "assemblyai_disfluencies": "El se ducha cada mañana."
+      }
+    },
+    {
+      "sentence_num": 5,
+      "text": "¿Qué dicen ustedes que va a ser hoy?",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "¿Qué dicen ustedes que va a ser hoy?",
+        "crisper_whisper": "¿Que dice Ustedes que va ser roy?",
+        "assemblyai_disfluencies": "¿Qué dice ustedes que va a ser hoy?"
+      }
+    },
+    {
+      "sentence_num": 6,
+      "text": "Tuvo que ser permanejar bien.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Tuvo que ser permanejar bien.",
+        "crisper_whisper": "Tuvo que sepa manajar bien.",
+        "assemblyai_disfluencies": "To je to, kaj se pa mana harobijem."
+      }
+    },
+    {
+      "sentence_num": 7,
+      "text": "Las calles de esta ciudad son muy anchas.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Las calles de esta ciudad son muy anchas.",
+        "crisper_whisper": "Las calles de esta ciudad son muy anchas.",
+        "assemblyai_disfluencies": "Las calles de esta ciudad son muy anchas."
+      }
+    },
+    {
+      "sentence_num": 8,
+      "text": "Puede que lleve mañana todo al día.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Puede que lleve mañana todo al día.",
+        "crisper_whisper": "Puede que lleva mañana todo el día.",
+        "assemblyai_disfluencies": "Puede que lleva mañana todo al día."
+      }
+    },
+    {
+      "sentence_num": 9,
+      "text": "Las casas son muy bonitas, pero caras.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Las casas son muy bonitas, pero caras.",
+        "crisper_whisper": "Las casas son muy bonitas, pero caras.",
+        "assemblyai_disfluencies": "As casas são muito bonitas, mas caras."
+      }
+    },
+    {
+      "sentence_num": 10,
+      "text": "Me gusta las películas que acaban bien.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Me gustan las películas que acaban bien.",
+        "crisper_whisper": "Me gusta las películas que acaban bien.",
+        "assemblyai_disfluencies": "Me gusta las películas que acaban bien."
+      }
+    },
+    {
+      "sentence_num": 11,
+      "text": "El chico con esto algo es español.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "El chico con esto algo es español.",
+        "crisper_whisper": "El chico con esto algo es español.",
+        "assemblyai_disfluencies": "El chico con esto algo es español."
+      }
+    },
+    {
+      "sentence_num": 12,
+      "text": "Después de cenar, me fui a dormir tranquilo.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Después de cenar, me fui a dormir tranquilo.",
+        "crisper_whisper": "Después de cenar, me fui a dormir tranquilo.",
+        "assemblyai_disfluencies": "Despues de senar, me fui ad dormir tranquilo."
+      }
+    },
+    {
+      "sentence_num": 13,
+      "text": "Quiero una casa en donde vivan mis animales.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Quiero una casa en donde vivan mis animales.",
+        "crisper_whisper": "Quiero una casa en la que vivan mis animales.",
+        "assemblyai_disfluencies": "Quiero una casa en que vivan mis animales."
+      }
+    },
+    {
+      "sentence_num": 14,
+      "text": "A nosotros nos fascinan las fiestas grandes.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "A nosotros nos fascinan las fiestas grandes.",
+        "crisper_whisper": "A nosotros nos fascinan las fiestas grandes.",
+        "assemblyai_disfluencies": "A nosotros nos fascinan las fiestas grandes."
+      }
+    },
+    {
+      "sentence_num": 15,
+      "text": "Ella solo bebe cerveza y come nada.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Ella solo bebe cerveza y come nada.",
+        "crisper_whisper": "Ella solo bebe cerveza y come nada.",
+        "assemblyai_disfluencies": "Ella solo bebe cerveza y come nada."
+      }
+    },
+    {
+      "sentence_num": 16,
+      "text": "Me gustaría las precias cajas.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Me gustaría las precias cajas.",
+        "crisper_whisper": "Me gustarían las precias cajas.",
+        "assemblyai_disfluencies": "Me gustaría las precias cajas."
+      }
+    },
+    {
+      "sentence_num": 17,
+      "text": "Cruza a la derecha y sigue el todo resto.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Cruza a la derecha y sigue el todo resto.",
+        "crisper_whisper": "Cruza a la derecha y sigue el toro resto.",
+        "assemblyai_disfluencies": "Cruza a la derecha y sigue el todo resto."
+      }
+    },
+    {
+      "sentence_num": 18,
+      "text": "Ello ha terminado de pintar su apartamento.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Ello ha terminado de pintar su apartamento.",
+        "crisper_whisper": "Ello ha terminado as pintar su apartamento.",
+        "assemblyai_disfluencies": "Ello ha terminado asentar su apartamento."
+      }
+    },
+    {
+      "sentence_num": 19,
+      "text": "Me gustaría hacer más calor pronto.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "Me gustaría hacer más calor pronto.",
+        "crisper_whisper": "Me gustaría hacer mas calor pronto.",
+        "assemblyai_disfluencies": "Me gustaría hacer más calor pronto."
+      }
+    },
+    {
+      "sentence_num": 20,
+      "text": "[TRANSCRIPTION FAILED]",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "[TRANSCRIPTION FAILED]",
+        "crisper_whisper": "El niño que se murio del gato y esta triste.",
+        "assemblyai_disfluencies": "El niño que se murió el gato y está triste."
+      }
+    },
+    {
+      "sentence_num": 21,
+      "text": "Una amiga me cuidaba a los niños.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Una amiga me cuidaba a los niños.",
+        "crisper_whisper": "Un amigo me ha cuidado a los niños.",
+        "assemblyai_disfluencies": "Un amiga me cuidaro a los ninos."
+      }
+    },
+    {
+      "sentence_num": 22,
+      "text": "El gato negro fuera perseguido por el perro.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "El gato negro fuera perseguido por el perro.",
+        "crisper_whisper": "El Gato Negro fuera perseguido por El Perro.",
+        "assemblyai_disfluencies": "O gato preto foi perseguido pelo gato."
+      }
+    },
+    {
+      "sentence_num": 23,
+      "text": "Antes de tienes que limpiar el cuarto.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Antes de tienes que limpiar el cuarto.",
+        "crisper_whisper": "Antes de tener su líder, limpiar el cuarto.",
+        "assemblyai_disfluencies": "Antistatien, salir, limpiar el quarto."
+      }
+    },
+    {
+      "sentence_num": 24,
+      "text": "La cantidad de personas que fuman es...",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "La cantidad de personas que fuman es...",
+        "crisper_whisper": "La cantidad de per de personas que fuman es",
+        "assemblyai_disfluencies": "La cantidad de personas que fuman es."
+      }
+    },
+    {
+      "sentence_num": 25,
+      "text": "Después de llegar a la casa, después del trabajo, come la cena.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Después de llegar a la casa, después del trabajo, come la cena.",
+        "crisper_whisper": "Después de llegar a la casa, después del trabajo, come la cena.",
+        "assemblyai_disfluencies": "Después de llegar a la casa, después del trabajo, come la cena."
+      }
+    },
+    {
+      "sentence_num": 26,
+      "text": "El ladrón que atrapó con la publicidad era famosa.",
+      "agreement": "partial",
+      "model_outputs": {
+        "openai": "El ladrón que atrapó con la publicidad era famoso.",
+        "crisper_whisper": "El ladrón que atrapó con la publicidad era famosa.",
+        "assemblyai_disfluencies": "El ladrón que atrapó con la publicidad era famosa."
+      }
+    },
+    {
+      "sentence_num": 27,
+      "text": "Le pedí a un amigo que me ayuden la tarea.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Le pedí a un amigo que me ayuden la tarea.",
+        "crisper_whisper": "Le pedí a un amigo que me ayuden la torre.",
+        "assemblyai_disfluencies": "Le pedí a un amigo que me ayudan la tarea."
+      }
+    },
+    {
+      "sentence_num": 28,
+      "text": "El pruebo no fue difícil, me han dicho.",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "El pruebo no fue difícil, me han dicho.",
+        "crisper_whisper": "El pruebo no fue difícil, me jan dicho.",
+        "assemblyai_disfluencies": "Eu provo que não foi difícil, mejam dito."
+      }
+    },
+    {
+      "sentence_num": 29,
+      "text": "Serías tan amable, ¿puedes darme el libro en el meso?",
+      "agreement": "none",
+      "model_outputs": {
+        "openai": "Serías tan amable, ¿puedes darme el libro en el meso?",
+        "crisper_whisper": "Serías tan amable, puede darme el libro en el meso.",
+        "assemblyai_disfluencies": "Series tan amable. ¿Puede darme el libro en el mesa?"
+      }
+    },
+    {
+      "sentence_num": 30,
+      "text": "Hay mucha gente que no toma nada para el desayuno.",
+      "agreement": "full",
+      "model_outputs": {
+        "openai": "Hay mucha gente que no toma nada para el desayuno.",
+        "crisper_whisper": "Hay mucha gente que no toma nada para el desayuno.",
+        "assemblyai_disfluencies": "Hay mucha gente que no toma nada para el desayuno."
+      }
+    }
+  ]
+}

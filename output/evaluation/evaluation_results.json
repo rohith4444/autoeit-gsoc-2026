@@ -1,0 +1,3734 @@
+[
+  {
+    "audio_id": "038010_EIT-2A",
+    "model": "openai",
+    "num_sentences": 30,
+    "wer": 0.321,
+    "cer": 0.271,
+    "ser": 0.767,
+    "exact_matches": 7,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortarme el pelo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortarme el pelo",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro está en la mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro está en la mesa",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "El carro no tiene pelo.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "el carro no tiene pelo",
+        "wer": 0.4,
+        "cer": 0.13,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "Ese duche cada mañana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "ese duche cada mañana",
+        "wer": 0.6,
+        "cer": 0.13,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "¿Qué dices, deres que va a ser hoy?",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "qué dices deres que va a ser hoy",
+        "wer": 0.375,
+        "cer": 0.242,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "Dudo que sepa manejar muy bien.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "dudo que sepa manejar muy bien",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "Las calles de esta ciudad son muy anchas.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "las calles de esta ciudad son muy anchas",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Puede que llueva mañana todo el día.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "puede que llueva mañana todo el día",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son muy bonitas pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son muy bonitas pero caras",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gustan las películas que caben bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gustan las películas que caben bien",
+        "wer": 0.143,
+        "cer": 0.051,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico que hago es español.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico que hago es español",
+        "wer": 0.444,
+        "cer": 0.308,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después de cenar, me fui a dormir tranquilo.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después de cenar me fui a dormir tranquilo",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero una casa en la que vivan animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero una casa en la que vivan animales",
+        "wer": 0.111,
+        "cer": 0.091,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "a nosotros",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotros",
+        "wer": 0.714,
+        "cer": 0.783,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Ella solo bebe cerveza y no come nada.",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "ella solo bebe cerveza y no come nada",
+        "wer": 0.125,
+        "cer": 0.027,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustaría...",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustaría",
+        "wer": 0.778,
+        "cer": 0.756,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Cursa a la derecha y después siga recto.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "cursa a la derecha y después siga recto",
+        "wer": 0.333,
+        "cer": 0.222,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "Ella termina de pintar su apartamento.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "ella termina de pintar su apartamento",
+        "wer": 0.286,
+        "cer": 0.119,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "Gracias.",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "gracias",
+        "wer": 1.0,
+        "cer": 0.898,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El niño a que se murió el gato, triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el niño a que se murió el gato triste",
+        "wer": 0.273,
+        "cer": 0.196,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "Una amiga mía cuidó a los niños.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "una amiga mía cuidó a los niños",
+        "wer": 0.4,
+        "cer": 0.318,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El gato que era negro.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato que era negro",
+        "wer": 0.5,
+        "cer": 0.571,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "Antes de poder salir, tiene que limpiar su cuarto.",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "antes de poder salir tiene que limpiar su cuarto",
+        "wer": 0.1,
+        "cer": 0.059,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "la cantidad de personas que fuman.",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "la cantidad de personas que fuman",
+        "wer": 0.25,
+        "cer": 0.298,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Después de llegar a casa",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "después de llegar a casa",
+        "wer": 0.5,
+        "cer": 0.51,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "El ladrón policía era famoso.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "el ladrón policía era famoso",
+        "wer": 0.444,
+        "cer": 0.378,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "Le pedí a un amigo que ayudara a traerla.",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "le pedí a un amigo que ayudara a traerla",
+        "wer": 0.364,
+        "cer": 0.239,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "Examen no tan difícil.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "examen no tan difícil",
+        "wer": 0.6,
+        "cer": 0.571,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "Amable que está el libro que está en la mesa.",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "amable que está el libro que está en la mesa",
+        "wer": 0.333,
+        "cer": 0.327,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "Hay mucha gente que no toma nada para desayuno.",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "hay mucha gente que no toma nada para desayuno",
+        "wer": 0.1,
+        "cer": 0.061,
+        "exact_match": false
+      }
+    ]
+  },
+  {
+    "audio_id": "038010_EIT-2A",
+    "model": "crisper_whisper",
+    "num_sentences": 30,
+    "wer": 0.398,
+    "cer": 0.3,
+    "ser": 0.867,
+    "exact_matches": 4,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortarme el pelo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortarme el pelo",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro esta en la mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro esta en la mesa",
+        "wer": 0.167,
+        "cer": 0.042,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "El carro lo tiene pelo.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "el carro lo tiene pelo",
+        "wer": 0.2,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "Essay duche cada mañana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "essay duche cada mañana",
+        "wer": 0.6,
+        "cer": 0.217,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "¿Que dices teres que van ser hoy?",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "que dices teres que van ser hoy",
+        "wer": 0.75,
+        "cer": 0.333,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "Dudo que sepa manejar muy bien.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "dudo que sepa manejar muy bien",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "Las calles de este ciudad son muy anches.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "las calles de este ciudad son muy anches",
+        "wer": 0.25,
+        "cer": 0.05,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Puede que lleve mañana todo el día.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "puede que lleve mañana todo el día",
+        "wer": 0.143,
+        "cer": 0.057,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son muy bonitas, pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son muy bonitas pero caras",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gustan las películas que acaban bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gustan las películas que acaban bien",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico que algo es español.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico que algo es español",
+        "wer": 0.444,
+        "cer": 0.282,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después de cener, me fui a dormir tranquilo.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después de cener me fui a dormir tranquilo",
+        "wer": 0.125,
+        "cer": 0.024,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero una casa en la que vivan animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero una casa en la que vivan animales",
+        "wer": 0.111,
+        "cer": 0.091,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "A nosotros.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotros",
+        "wer": 0.714,
+        "cer": 0.783,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Ella sola bebe cerveza y no come nada.",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "ella sola bebe cerveza y no come nada",
+        "wer": 0.125,
+        "cer": 0.054,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustaría.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustaría",
+        "wer": 0.778,
+        "cer": 0.756,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Cursa a la derecha y después siga recto.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "cursa a la derecha y después siga recto",
+        "wer": 0.333,
+        "cer": 0.222,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "Al terminar, pinta su apartamento.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "al terminar pinta su apartamento",
+        "wer": 0.714,
+        "cer": 0.286,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "[empty]",
+        "wer": 1.0,
+        "cer": 0.939,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El niño, a que se murió el gato, triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el niño a que se murió el gato triste",
+        "wer": 0.273,
+        "cer": 0.196,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "La amiga mia cuidao los ninos.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "la amiga mia cuidao los ninos",
+        "wer": 0.8,
+        "cer": 0.432,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El gato queda negro.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato queda negro",
+        "wer": 0.7,
+        "cer": 0.633,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "Antes de poder salir, tiene que limpiar su cuarto.",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "antes de poder salir tiene que limpiar su cuarto",
+        "wer": 0.1,
+        "cer": 0.059,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "La cantidad de personas que fuman.",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "la cantidad de personas que fuman",
+        "wer": 0.25,
+        "cer": 0.298,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Después de llegar a Casa.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "después de llegar a casa",
+        "wer": 0.5,
+        "cer": 0.51,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "El ladrón policía era famoso.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "el ladrón policía era famoso",
+        "wer": 0.444,
+        "cer": 0.378,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "Le pidió a un amigo que lo ayudara.",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "le pidió a un amigo que lo ayudara",
+        "wer": 0.455,
+        "cer": 0.391,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "I examine no tan difícil.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "i examine no tan difícil",
+        "wer": 0.7,
+        "cer": 0.592,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "Amable que esta, el libro que esta en la mesa.",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "amable que esta el libro que esta en la mesa",
+        "wer": 0.417,
+        "cer": 0.345,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "Hay mucha gente que no toma nada para desayunar.",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "hay mucha gente que no toma nada para desayunar",
+        "wer": 0.2,
+        "cer": 0.102,
+        "exact_match": false
+      }
+    ]
+  },
+  {
+    "audio_id": "038010_EIT-2A",
+    "model": "assemblyai_disfluencies",
+    "num_sentences": 30,
+    "wer": 0.574,
+    "cer": 0.453,
+    "ser": 0.867,
+    "exact_matches": 4,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortarme el pelo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortarme el pelo",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro está en la mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro está en la mesa",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "A Carol lo tiene pelo.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "a carol lo tiene pelo",
+        "wer": 0.6,
+        "cer": 0.261,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "Essay. Uh, ducek caramanana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "essay uh ducek caramanana",
+        "wer": 1.0,
+        "cer": 0.478,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "This is, that is Kevin share hoy.",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "this is that is kevin share hoy",
+        "wer": 0.875,
+        "cer": 0.667,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "Duro kesepa um maneha muy bien.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "duro kesepa um maneha muy bien",
+        "wer": 0.667,
+        "cer": 0.3,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "Laskai stayanchas m.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "laskai stayanchas m",
+        "wer": 1.0,
+        "cer": 0.675,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Todo el día.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "todo el día",
+        "wer": 0.571,
+        "cer": 0.686,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son muy bonitas, pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son muy bonitas pero caras",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gusta las películas que cavan bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gusta las películas que cavan bien",
+        "wer": 0.286,
+        "cer": 0.077,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico que algo es español.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico que algo es español",
+        "wer": 0.444,
+        "cer": 0.282,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después de cenar me fui a dormir tranquilo.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después de cenar me fui a dormir tranquilo",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero una casa en la que vivan animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero una casa en la que vivan animales",
+        "wer": 0.111,
+        "cer": 0.091,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "A nosotros.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotros",
+        "wer": 0.714,
+        "cer": 0.783,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Ella sola bebe cerveza y no come nada.",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "ella sola bebe cerveza y no come nada",
+        "wer": 0.125,
+        "cer": 0.054,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Middle sterea.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "middle sterea",
+        "wer": 1.0,
+        "cer": 0.844,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Después siga recto.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "después siga recto",
+        "wer": 0.778,
+        "cer": 0.622,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "Ella terminar pinta su apartamento.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "ella terminar pinta su apartamento",
+        "wer": 0.571,
+        "cer": 0.214,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "[ERROR: language_detection cannot be performed on files with no spoken audio.]",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "error languagedetection cannot be performed on files with no spoken audio",
+        "wer": 1.222,
+        "cer": 1.143,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El niño a que se murió el gato triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el niño a que se murió el gato triste",
+        "wer": 0.273,
+        "cer": 0.196,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "Amiga mia, cuidado los niños.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "amiga mia cuidado los niños",
+        "wer": 0.7,
+        "cer": 0.455,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El gato kara negro.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato kara negro",
+        "wer": 0.7,
+        "cer": 0.673,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "Antes de poder salir tiene que limpiar su corto.",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "antes de poder salir tiene que limpiar su corto",
+        "wer": 0.2,
+        "cer": 0.098,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "La cantidad de personas que fuman.",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "la cantidad de personas que fuman",
+        "wer": 0.25,
+        "cer": 0.298,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Displace the gara casa. Uh.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "displace the gara casa uh",
+        "wer": 0.9,
+        "cer": 0.694,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "El ladrón policía era famoso.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "el ladrón policía era famoso",
+        "wer": 0.444,
+        "cer": 0.378,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "친한 친구가 도와줬어요",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "친한 친구가 도와줬어요",
+        "wer": 1.0,
+        "cer": 0.957,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "Examine no tantific.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "examine no tantific",
+        "wer": 0.9,
+        "cer": 0.694,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "Amable que está el libro que está en la mesa.",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "amable que está el libro que está en la mesa",
+        "wer": 0.333,
+        "cer": 0.327,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "[TRANSCRIPTION FAILED]",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "transcription failed",
+        "wer": 1.0,
+        "cer": 0.837,
+        "exact_match": false
+      }
+    ]
+  },
+  {
+    "audio_id": "038011_EIT-1A",
+    "model": "openai",
+    "num_sentences": 30,
+    "wer": 0.454,
+    "cer": 0.307,
+    "ser": 0.867,
+    "exact_matches": 4,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortarme el pelo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortarme el pelo",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro está en la mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro está en la mesa",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "El carro no tiene pelo.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "el carro no tiene pelo",
+        "wer": 0.4,
+        "cer": 0.13,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "A no ser ducha cada mañana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "a no ser ducha cada mañana",
+        "wer": 0.6,
+        "cer": 0.217,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "¿Qué dice usted que va a hacer hoy?",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "qué dice usted que va a hacer hoy",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "Tuvo que se manejar bien.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "tuvo que se manejar bien",
+        "wer": 0.5,
+        "cer": 0.267,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "Los caes en salvar muchas añas.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "los caes en salvar muchas añas",
+        "wer": 1.0,
+        "cer": 0.575,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Puede que lleve mañana todo el día.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "puede que lleve mañana todo el día",
+        "wer": 0.143,
+        "cer": 0.057,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son muy bonitas, pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son muy bonitas pero caras",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gustan las películas que caben bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gustan las películas que caben bien",
+        "wer": 0.143,
+        "cer": 0.051,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El Chico Conectivo Salgo está bien.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico conectivo salgo está bien",
+        "wer": 0.667,
+        "cer": 0.41,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después de cenar, me fui a poner tranquilo.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después de cenar me fui a poner tranquilo",
+        "wer": 0.125,
+        "cer": 0.095,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero una casa que viven a mis animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero una casa que viven a mis animales",
+        "wer": 0.444,
+        "cer": 0.205,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "A nosotros que nos fijes.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotros que nos fijes",
+        "wer": 0.714,
+        "cer": 0.609,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Ella suena la cerveza y como...",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "ella suena la cerveza y como",
+        "wer": 0.625,
+        "cer": 0.459,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustaría los precios de los caras para nada.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustaría los precios de los caras para nada",
+        "wer": 0.778,
+        "cer": 0.333,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Cursa a la derecha y siga derecho.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "cursa a la derecha y siga derecho",
+        "wer": 0.556,
+        "cer": 0.4,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "Ella ha terminado los apartamentos.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "ella ha terminado los apartamentos",
+        "wer": 0.571,
+        "cer": 0.286,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "Me gustaría las hacer pronto.",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "me gustaría las hacer pronto",
+        "wer": 0.556,
+        "cer": 0.469,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El niño que se murió al gato está triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el niño que se murió al gato está triste",
+        "wer": 0.273,
+        "cer": 0.152,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "Una amiga bien cuidar a los niños a mi vecino.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "una amiga bien cuidar a los niños a mi vecino",
+        "wer": 0.3,
+        "cer": 0.159,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El gato era negro y el perro era negro.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato era negro y el perro era negro",
+        "wer": 0.6,
+        "cer": 0.408,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "Antes de que salir, fue de cuarto?",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "antes de que salir fue de cuarto",
+        "wer": 0.6,
+        "cer": 0.471,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "La cantidad de las personas fuman que me he salido.",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "la cantidad de las personas fuman que me he salido",
+        "wer": 0.625,
+        "cer": 0.426,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Después de llegar a la casa, fui a la cena.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "después de llegar a la casa fui a la cena",
+        "wer": 0.4,
+        "cer": 0.347,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "Perdón a la policía, eran famoso.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "perdón a la policía eran famoso",
+        "wer": 0.667,
+        "cer": 0.422,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "Le pedí a un amigo que ayudara con mi tarea.",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "le pedí a un amigo que ayudara con mi tarea",
+        "wer": 0.182,
+        "cer": 0.109,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "El examen no fue...",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "el examen no fue",
+        "wer": 0.6,
+        "cer": 0.673,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "Serías amable que lo están...",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "serías amable que lo están",
+        "wer": 0.75,
+        "cer": 0.564,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "Hay mucha gente que no tomara el desayuno.",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "hay mucha gente que no tomara el desayuno",
+        "wer": 0.3,
+        "cer": 0.163,
+        "exact_match": false
+      }
+    ]
+  },
+  {
+    "audio_id": "038011_EIT-1A",
+    "model": "crisper_whisper",
+    "num_sentences": 30,
+    "wer": 0.474,
+    "cer": 0.314,
+    "ser": 0.9,
+    "exact_matches": 3,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortarme el pelo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortarme el pelo",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro esta en la mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro esta en la mesa",
+        "wer": 0.167,
+        "cer": 0.042,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "El carro no tiene perro.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "el carro no tiene perro",
+        "wer": 0.4,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "El se ducha cada mañana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "el se ducha cada mañana",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "Que dices te que va a ser hoy.",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "que dices te que va a ser hoy",
+        "wer": 0.5,
+        "cer": 0.242,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "Tugo que se manejaran bien.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "tugo que se manejaran bien",
+        "wer": 0.667,
+        "cer": 0.267,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "Las calles ensaladan muchas añas.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "las calles ensaladan muchas añas",
+        "wer": 0.75,
+        "cer": 0.45,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Puede que lleva mañana todo día.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "puede que lleva mañana todo día",
+        "wer": 0.286,
+        "cer": 0.114,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son muy bonitas, pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son muy bonitas pero caras",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gusta las películas que acaban bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gusta las películas que acaban bien",
+        "wer": 0.143,
+        "cer": 0.026,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico colectivo Salgo esta bien.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico colectivo salgo esta bien",
+        "wer": 0.667,
+        "cer": 0.436,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después de sanar, me fui a poner tranquilo.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después de sanar me fui a poner tranquilo",
+        "wer": 0.25,
+        "cer": 0.143,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero una casa que viven a mis animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero una casa que viven a mis animales",
+        "wer": 0.444,
+        "cer": 0.205,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "A nosotras que las visas.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotras que las visas",
+        "wer": 0.714,
+        "cer": 0.587,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Ella solo cerveza y como.",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "ella solo cerveza y como",
+        "wer": 0.625,
+        "cer": 0.405,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustarían los precios de los caras van lava.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustarían los precios de los caras van lava",
+        "wer": 0.889,
+        "cer": 0.333,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Cruza la derecha y siga derecho.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "cruza la derecha y siga derecho",
+        "wer": 0.556,
+        "cer": 0.378,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "Ella ha terminado losapartamiento.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "ella ha terminado losapartamiento",
+        "wer": 0.571,
+        "cer": 0.31,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "Me gustaría las hacer pronto.",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "me gustaría las hacer pronto",
+        "wer": 0.556,
+        "cer": 0.469,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El niño, que se murió del gato, esta triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el niño que se murió del gato esta triste",
+        "wer": 0.364,
+        "cer": 0.174,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "Una amiga bien cuida de los niños a mi vecino.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "una amiga bien cuida de los niños a mi vecino",
+        "wer": 0.3,
+        "cer": 0.182,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El Gato Era Negro y El Perro.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato era negro y el perro",
+        "wer": 0.4,
+        "cer": 0.449,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "Antes de que salir, fue de cuarto.",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "antes de que salir fue de cuarto",
+        "wer": 0.6,
+        "cer": 0.471,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "La cantidad de las personas fuman que me he salido.",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "la cantidad de las personas fuman que me he salido",
+        "wer": 0.625,
+        "cer": 0.426,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Después de llegar a la casa, fui a la cena.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "después de llegar a la casa fui a la cena",
+        "wer": 0.4,
+        "cer": 0.347,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "Perdon a la policía, eran famoso.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "perdon a la policía eran famoso",
+        "wer": 0.667,
+        "cer": 0.444,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "Le pedí a un amigo que ayude con mi tarea.",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "le pedí a un amigo que ayude con mi tarea",
+        "wer": 0.273,
+        "cer": 0.174,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "El examen no fue.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "el examen no fue",
+        "wer": 0.6,
+        "cer": 0.673,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "Serías amable que lo estan.",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "serías amable que lo estan",
+        "wer": 0.75,
+        "cer": 0.582,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "Hay mucha gente que no tomara al desayuno.",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "hay mucha gente que no tomara al desayuno",
+        "wer": 0.4,
+        "cer": 0.184,
+        "exact_match": false
+      }
+    ]
+  },
+  {
+    "audio_id": "038011_EIT-1A",
+    "model": "assemblyai_disfluencies",
+    "num_sentences": 30,
+    "wer": 0.506,
+    "cer": 0.353,
+    "ser": 0.933,
+    "exact_matches": 2,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortarme a pelo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortarme a pelo",
+        "wer": 0.25,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro está en la mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro está en la mesa",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "El carro no tiene pelo.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "el carro no tiene pelo",
+        "wer": 0.4,
+        "cer": 0.13,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "Ela se ducha cada manhã.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "ela se ducha cada manhã",
+        "wer": 0.4,
+        "cer": 0.217,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "¿Qué dice usted qué va a hacer hoy?",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "qué dice usted qué va a hacer hoy",
+        "wer": 0.125,
+        "cer": 0.03,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "[no response]",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "no response",
+        "wer": 1.0,
+        "cer": 0.767,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "Les cais en soledad muchas anas.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "les cais en soledad muchas anas",
+        "wer": 1.0,
+        "cer": 0.55,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Puede que lleva mañana todo el día.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "puede que lleva mañana todo el día",
+        "wer": 0.143,
+        "cer": 0.029,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son muy bonitas, pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son muy bonitas pero caras",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gusta las películas que acaban bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gusta las películas que acaban bien",
+        "wer": 0.143,
+        "cer": 0.026,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico conectivo. Salgo. Está bien.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico conectivo salgo está bien",
+        "wer": 0.667,
+        "cer": 0.41,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después de cenar me fui a poner tranquilo.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después de cenar me fui a poner tranquilo",
+        "wer": 0.125,
+        "cer": 0.095,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero una casa que viven a mis animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero una casa que viven a mis animales",
+        "wer": 0.444,
+        "cer": 0.205,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "A nosotros que las visas.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotros que las visas",
+        "wer": 0.571,
+        "cer": 0.565,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Ela soa de cerveja e como...",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "ela soa de cerveja e como",
+        "wer": 1.0,
+        "cer": 0.486,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustaría los precios de las caras para nada.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustaría los precios de las caras para nada",
+        "wer": 0.667,
+        "cer": 0.311,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Kresla la derecha i siga derecho.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "kresla la derecha i siga derecho",
+        "wer": 0.778,
+        "cer": 0.467,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "Ella ha terminado los apartamentos.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "ella ha terminado los apartamentos",
+        "wer": 0.571,
+        "cer": 0.286,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "Me gustaría las hacer pronto.",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "me gustaría las hacer pronto",
+        "wer": 0.556,
+        "cer": 0.469,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El niño que se murió, el gato está triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el niño que se murió el gato está triste",
+        "wer": 0.182,
+        "cer": 0.13,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "Una amiga bien cuida los niños a mi vecino.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "una amiga bien cuida los niños a mi vecino",
+        "wer": 0.3,
+        "cer": 0.182,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El gato era negro y el perro.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato era negro y el perro",
+        "wer": 0.4,
+        "cer": 0.449,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "Antes de que salir puede cuarto.",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "antes de que salir puede cuarto",
+        "wer": 0.6,
+        "cer": 0.49,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "La cantidad de las personas fuman que mis ardillas.",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "la cantidad de las personas fuman que mis ardillas",
+        "wer": 0.625,
+        "cer": 0.426,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Después de llegar a la casa, fui a la cena.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "después de llegar a la casa fui a la cena",
+        "wer": 0.4,
+        "cer": 0.347,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "Perdón a la policía, eran famosos.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "perdón a la policía eran famosos",
+        "wer": 0.778,
+        "cer": 0.444,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "Le pedí a un amigo que ayudara con mi tarea.",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "le pedí a un amigo que ayudara con mi tarea",
+        "wer": 0.182,
+        "cer": 0.109,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "Alexamen no fue.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "alexamen no fue",
+        "wer": 0.8,
+        "cer": 0.714,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "Serías amable que lo están.",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "serías amable que lo están",
+        "wer": 0.75,
+        "cer": 0.564,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "[no response]",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "no response",
+        "wer": 0.9,
+        "cer": 0.878,
+        "exact_match": false
+      }
+    ]
+  },
+  {
+    "audio_id": "038012_EIT-2A",
+    "model": "openai",
+    "num_sentences": 30,
+    "wer": 0.831,
+    "cer": 0.629,
+    "ser": 1.0,
+    "exact_matches": 0,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortar el pelo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortar el pelo",
+        "wer": 0.25,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro está a la mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro está a la mesa",
+        "wer": 0.167,
+        "cer": 0.083,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "El carro lo tiene a pelo.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "el carro lo tiene a pelo",
+        "wer": 0.4,
+        "cer": 0.174,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "El se duche cada mañana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "el se duche cada mañana",
+        "wer": 0.2,
+        "cer": 0.043,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "¿Qué dice usted que pasa hoy?",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "qué dice usted que pasa hoy",
+        "wer": 0.375,
+        "cer": 0.242,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "Duros de calezar también.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "duros de calezar también",
+        "wer": 1.0,
+        "cer": 0.533,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "La calles se sede a los calles anchas.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "la calles se sede a los calles anchas",
+        "wer": 0.75,
+        "cer": 0.475,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "y el pueblo sigue en la calle.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "y el pueblo sigue en la calle",
+        "wer": 1.0,
+        "cer": 0.771,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son bonitas pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son bonitas pero caras",
+        "wer": 0.143,
+        "cer": 0.111,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gustan las películas de Beckard bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gustan las películas de beckard bien",
+        "wer": 0.286,
+        "cer": 0.205,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico es bonario español.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico es bonario español",
+        "wer": 0.667,
+        "cer": 0.436,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después, llegar, dormir...",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después llegar dormir",
+        "wer": 0.75,
+        "cer": 0.571,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero la casa, esta, a mis animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero la casa esta a mis animales",
+        "wer": 0.556,
+        "cer": 0.295,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "A nosotros fascinabas, a los nosotros.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotros fascinabas a los nosotros",
+        "wer": 0.714,
+        "cer": 0.457,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Es el conversinos del domingazo.",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "es el conversinos del domingazo",
+        "wer": 1.0,
+        "cer": 0.73,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustaría que los besos me estas llanando.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustaría que los besos me estas llanando",
+        "wer": 0.667,
+        "cer": 0.467,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Cruzar a la derecha.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "cruzar a la derecha",
+        "wer": 0.667,
+        "cer": 0.622,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "El caminado es pas la lamento.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "el caminado es pas la lamento",
+        "wer": 1.0,
+        "cer": 0.452,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "Me gustaría hacer pincadas. Esta gustaría pronto.",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "me gustaría hacer pincadas esta gustaría pronto",
+        "wer": 0.667,
+        "cer": 0.49,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El niño Siriocato está muy triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el niño siriocato está muy triste",
+        "wer": 0.727,
+        "cer": 0.522,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "Una amiga picalo en mi vecino.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "una amiga picalo en mi vecino",
+        "wer": 0.6,
+        "cer": 0.432,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El gato tiña negro y el lapero.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato tiña negro y el lapero",
+        "wer": 0.6,
+        "cer": 0.51,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "que es limpiar tus cuartos.",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "que es limpiar tus cuartos",
+        "wer": 0.9,
+        "cer": 0.627,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "Pero yo ya me lo he gonfalonado de la gente, de todas las mentiras que se me acaban de contar. Está bien. Lezgo de ahí. Lo weirdo es que me apenas te pregunté cómo estás. Como todo genginazo. Pobre encarnacion. Pero no lo pienso ya. Otras veces... Poco de sorpresa.",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "pero yo ya me lo he gonfalonado de la gente de todas las mentiras que se me acaban de contar está bien lezgo de ahí lo weirdo es que me apenas te pregunté cómo estás como todo genginazo pobre encarnacion pero no lo pienso ya otras veces poco de sorpresa",
+        "wer": 5.875,
+        "cer": 4.66,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Después de llegar a mi casa, voy a la cena.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "después de llegar a mi casa voy a la cena",
+        "wer": 0.4,
+        "cer": 0.347,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "Policía era famoso.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "policía era famoso",
+        "wer": 0.667,
+        "cer": 0.6,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "le pide de una amiga",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "le pide de una amiga",
+        "wer": 0.909,
+        "cer": 0.696,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "La tarea es un no difícil para derecha.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "la tarea es un no difícil para derecha",
+        "wer": 0.9,
+        "cer": 0.592,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "lo que está en la mesa. Este libro está en la mesa.",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "lo que está en la mesa este libro está en la mesa",
+        "wer": 0.667,
+        "cer": 0.491,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "Hay muchos ejemplos, pero...",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "hay muchos ejemplos pero",
+        "wer": 0.9,
+        "cer": 0.694,
+        "exact_match": false
+      }
+    ]
+  },
+  {
+    "audio_id": "038012_EIT-2A",
+    "model": "crisper_whisper",
+    "num_sentences": 30,
+    "wer": 0.763,
+    "cer": 0.498,
+    "ser": 1.0,
+    "exact_matches": 0,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortar el velo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortar el velo",
+        "wer": 0.5,
+        "cer": 0.13,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro esta a la mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro esta a la mesa",
+        "wer": 0.333,
+        "cer": 0.125,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "El carro lo tiene pelo.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "el carro lo tiene pelo",
+        "wer": 0.2,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "Else duche cada mañana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "else duche cada mañana",
+        "wer": 0.6,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "Que dijo se que pa’s eroe.",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "que dijo se que pas eroe",
+        "wer": 0.875,
+        "cer": 0.455,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "Duros de Calesar tambien.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "duros de calesar tambien",
+        "wer": 1.0,
+        "cer": 0.5,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "La callo s sende los calla Santa.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "la callo s sende los calla santa",
+        "wer": 1.0,
+        "cer": 0.6,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Pueblo ye que se que ya calla.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "pueblo ye que se que ya calla",
+        "wer": 1.0,
+        "cer": 0.686,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son bonitas pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son bonitas pero caras",
+        "wer": 0.143,
+        "cer": 0.111,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gusta las pelliculas de pecar bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gusta las pelliculas de pecar bien",
+        "wer": 0.571,
+        "cer": 0.256,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico es bonalo es español.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico es bonalo es español",
+        "wer": 0.556,
+        "cer": 0.333,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después, llegar, dormir.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después llegar dormir",
+        "wer": 0.75,
+        "cer": 0.571,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero la casa esta a mi animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero la casa esta a mi animales",
+        "wer": 0.667,
+        "cer": 0.318,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "A nosotros ofrecen nabas a los nosotros.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotros ofrecen nabas a los nosotros",
+        "wer": 0.714,
+        "cer": 0.5,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Es el conversinos del lo Picasso.",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "es el conversinos del lo picasso",
+        "wer": 1.0,
+        "cer": 0.784,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustaría que los besos me estas llanando.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustaría que los besos me estas llanando",
+        "wer": 0.667,
+        "cer": 0.467,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Cruzada a la derecha.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "cruzada a la derecha",
+        "wer": 0.667,
+        "cer": 0.644,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "Ella, interminando, espasa la lamenta.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "ella interminando espasa la lamenta",
+        "wer": 0.857,
+        "cer": 0.405,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "Me gustaria si pingatas esta gustaria pronto",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "me gustaria si pingatas esta gustaria pronto",
+        "wer": 0.778,
+        "cer": 0.49,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El nino sirio gato es tan muy triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el nino sirio gato es tan muy triste",
+        "wer": 0.818,
+        "cer": 0.543,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "Una amiga picado lo en mi me se vino.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "una amiga picado lo en mi me se vino",
+        "wer": 0.8,
+        "cer": 0.455,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El gato sin y o sin a ne negro y el lapelo.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato sin y o sin a ne negro y el lapelo",
+        "wer": 0.9,
+        "cer": 0.551,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "Que se limpiar tus cuartos.",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "que se limpiar tus cuartos",
+        "wer": 0.9,
+        "cer": 0.627,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "La cantina lay as a farsino las personas.",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "la cantina lay as a farsino las personas",
+        "wer": 0.875,
+        "cer": 0.638,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Después ya llegar a mi casa [UM] fue a la cena.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "después ya llegar a mi casa um fue a la cena",
+        "wer": 0.5,
+        "cer": 0.388,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "Policia era formoso.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "policia era formoso",
+        "wer": 0.889,
+        "cer": 0.667,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "La PDE, la UNA, la MEGA.",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "la pde la una la mega",
+        "wer": 0.909,
+        "cer": 0.696,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "El Torreja esta no difícil para Torreja.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "el torreja esta no difícil para torreja",
+        "wer": 0.8,
+        "cer": 0.633,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "Okay, esta en la mesa. La es del libro. Es [UM] something en la mesa.",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "okay esta en la mesa la es del libro es um something en la mesa",
+        "wer": 0.917,
+        "cer": 0.6,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "A mucho emplo, pero oh oh oh.",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "a mucho emplo pero oh oh oh",
+        "wer": 1.0,
+        "cer": 0.714,
+        "exact_match": false
+      }
+    ]
+  },
+  {
+    "audio_id": "038012_EIT-2A",
+    "model": "assemblyai_disfluencies",
+    "num_sentences": 30,
+    "wer": 0.811,
+    "cer": 0.63,
+    "ser": 1.0,
+    "exact_matches": 0,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortar el pelo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortar el pelo",
+        "wer": 0.25,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro Estala mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro estala mesa",
+        "wer": 0.5,
+        "cer": 0.208,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "Il carro lo tiene a pelo.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "il carro lo tiene a pelo",
+        "wer": 0.6,
+        "cer": 0.217,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "El Seduchara manana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "el seduchara manana",
+        "wer": 0.8,
+        "cer": 0.261,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "[no response]",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "no response",
+        "wer": 1.0,
+        "cer": 0.879,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "Duros de calzar también.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "duros de calzar también",
+        "wer": 1.0,
+        "cer": 0.567,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "Lacayos center.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "lacayos center",
+        "wer": 1.0,
+        "cer": 0.8,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Pueblo.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "pueblo",
+        "wer": 1.0,
+        "cer": 0.857,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son bonitas, pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son bonitas pero caras",
+        "wer": 0.143,
+        "cer": 0.111,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gustan las películas. Peca bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gustan las películas peca bien",
+        "wer": 0.286,
+        "cer": 0.179,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico esponal es español.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico esponal es español",
+        "wer": 0.556,
+        "cer": 0.385,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después llegar, dormía.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después llegar dormía",
+        "wer": 0.875,
+        "cer": 0.595,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero la casa esta a mi, animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero la casa esta a mi animales",
+        "wer": 0.667,
+        "cer": 0.318,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "Lost nosotros.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "lost nosotros",
+        "wer": 0.857,
+        "cer": 0.761,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Conversion del casa.",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "conversion del casa",
+        "wer": 1.0,
+        "cer": 0.784,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustaría que los pesos me están not.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustaría que los pesos me están not",
+        "wer": 0.667,
+        "cer": 0.489,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Cruzar a la derecha.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "cruzar a la derecha",
+        "wer": 0.667,
+        "cer": 0.622,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "He terminado espas.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "he terminado espas",
+        "wer": 0.857,
+        "cer": 0.619,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "Me gustaría hacer pincar esta gustaría pronto.",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "me gustaría hacer pincar esta gustaría pronto",
+        "wer": 0.667,
+        "cer": 0.469,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El niño sirio gato está muy triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el niño sirio gato está muy triste",
+        "wer": 0.636,
+        "cer": 0.478,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "[TRANSCRIPTION FAILED]",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "transcription failed",
+        "wer": 1.0,
+        "cer": 0.818,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El gato negro y la pedal.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato negro y la pedal",
+        "wer": 0.7,
+        "cer": 0.633,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "[no response]",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "no response",
+        "wer": 1.0,
+        "cer": 0.863,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "Lacant liars. Uh.",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "lacant liars uh",
+        "wer": 1.0,
+        "cer": 0.745,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "This was. Lacena.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "this was lacena",
+        "wer": 1.0,
+        "cer": 0.776,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "Water policia era for so.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "water policia era for so",
+        "wer": 1.0,
+        "cer": 0.6,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "레비디, 레우나, 레미가,",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "레비디 레우나 레미가",
+        "wer": 1.0,
+        "cer": 0.957,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "El.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "el",
+        "wer": 0.9,
+        "cer": 0.959,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "[no response]",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "no response",
+        "wer": 1.0,
+        "cer": 0.873,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "Pero.",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "pero",
+        "wer": 1.0,
+        "cer": 0.939,
+        "exact_match": false
+      }
+    ]
+  },
+  {
+    "audio_id": "038015_EIT-1A",
+    "model": "openai",
+    "num_sentences": 30,
+    "wer": 0.309,
+    "cer": 0.206,
+    "ser": 0.767,
+    "exact_matches": 7,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortarme el pelo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortarme el pelo",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro está en la mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro está en la mesa",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "¿El carro no tiene pelo?",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "el carro no tiene pelo",
+        "wer": 0.4,
+        "cer": 0.13,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "Él se ducha cada mañana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "él se ducha cada mañana",
+        "wer": 0.2,
+        "cer": 0.043,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "¿Qué dicen ustedes que va a ser hoy?",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "qué dicen ustedes que va a ser hoy",
+        "wer": 0.375,
+        "cer": 0.182,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "Tuvo que ser permanejar bien.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "tuvo que ser permanejar bien",
+        "wer": 0.667,
+        "cer": 0.333,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "Las calles de esta ciudad son muy anchas.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "las calles de esta ciudad son muy anchas",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Puede que lleve mañana todo al día.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "puede que lleve mañana todo al día",
+        "wer": 0.286,
+        "cer": 0.086,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son muy bonitas, pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son muy bonitas pero caras",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gustan las películas que acaban bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gustan las películas que acaban bien",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico con esto algo es español.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico con esto algo es español",
+        "wer": 0.444,
+        "cer": 0.205,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después de cenar, me fui a dormir tranquilo.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después de cenar me fui a dormir tranquilo",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero una casa en donde vivan mis animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero una casa en donde vivan mis animales",
+        "wer": 0.222,
+        "cer": 0.114,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "A nosotros nos fascinan las fiestas grandes.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotros nos fascinan las fiestas grandes",
+        "wer": 0.143,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Ella solo bebe cerveza y come nada.",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "ella solo bebe cerveza y come nada",
+        "wer": 0.25,
+        "cer": 0.108,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustaría las precias cajas.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustaría las precias cajas",
+        "wer": 0.667,
+        "cer": 0.444,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Cruza a la derecha y sigue el todo resto.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "cruza a la derecha y sigue el todo resto",
+        "wer": 0.333,
+        "cer": 0.267,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "Ello ha terminado de pintar su apartamento.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "ello ha terminado de pintar su apartamento",
+        "wer": 0.143,
+        "cer": 0.024,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "Me gustaría hacer más calor pronto.",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "me gustaría hacer más calor pronto",
+        "wer": 0.333,
+        "cer": 0.306,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "[TRANSCRIPTION FAILED]",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "transcription failed",
+        "wer": 1.0,
+        "cer": 0.848,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "Una amiga me cuidaba a los niños.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "una amiga me cuidaba a los niños",
+        "wer": 0.5,
+        "cer": 0.386,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El gato negro fuera perseguido por el perro.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato negro fuera perseguido por el perro",
+        "wer": 0.3,
+        "cer": 0.204,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "Antes de tienes que limpiar el cuarto.",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "antes de tienes que limpiar el cuarto",
+        "wer": 0.5,
+        "cer": 0.353,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "La cantidad de personas que fuman es...",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "la cantidad de personas que fuman es",
+        "wer": 0.25,
+        "cer": 0.255,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Después de llegar a la casa, después del trabajo, come la cena.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "después de llegar a la casa después del trabajo come la cena",
+        "wer": 0.3,
+        "cer": 0.265,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "El ladrón que atrapó con la publicidad era famoso.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "el ladrón que atrapó con la publicidad era famoso",
+        "wer": 0.333,
+        "cer": 0.267,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "Le pedí a un amigo que me ayuden la tarea.",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "le pedí a un amigo que me ayuden la tarea",
+        "wer": 0.182,
+        "cer": 0.13,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "El pruebo no fue difícil, me han dicho.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "el pruebo no fue difícil me han dicho",
+        "wer": 0.4,
+        "cer": 0.367,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "Serías tan amable, ¿puedes darme el libro en el meso?",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "serías tan amable puedes darme el libro en el meso",
+        "wer": 0.417,
+        "cer": 0.273,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "Hay mucha gente que no toma nada para el desayuno.",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "hay mucha gente que no toma nada para el desayuno",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      }
+    ]
+  },
+  {
+    "audio_id": "038015_EIT-1A",
+    "model": "crisper_whisper",
+    "num_sentences": 30,
+    "wer": 0.353,
+    "cer": 0.202,
+    "ser": 0.833,
+    "exact_matches": 5,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero recortrarme a Bello.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero recortrarme a bello",
+        "wer": 0.75,
+        "cer": 0.304,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "El libro esta en la mesa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "el libro esta en la mesa",
+        "wer": 0.167,
+        "cer": 0.042,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "El carro no tiene pelo.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "el carro no tiene pelo",
+        "wer": 0.4,
+        "cer": 0.13,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "Elsa ducha cada mañana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "elsa ducha cada mañana",
+        "wer": 0.4,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "¿Que dice Ustedes que va ser roy?",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "que dice ustedes que va ser roy",
+        "wer": 0.625,
+        "cer": 0.273,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "Tuvo que sepa manajar bien.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "tuvo que sepa manajar bien",
+        "wer": 0.5,
+        "cer": 0.233,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "Las calles de esta ciudad son muy anchas.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "las calles de esta ciudad son muy anchas",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Puede que lleva mañana todo el día.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "puede que lleva mañana todo el día",
+        "wer": 0.143,
+        "cer": 0.029,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "Las casas son muy bonitas, pero caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "las casas son muy bonitas pero caras",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gusta las películas que acaban bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gusta las películas que acaban bien",
+        "wer": 0.143,
+        "cer": 0.026,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico con esto algo es español.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico con esto algo es español",
+        "wer": 0.444,
+        "cer": 0.205,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Después de cenar, me fui a dormir tranquilo.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "después de cenar me fui a dormir tranquilo",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero una casa en la que vivan mis animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero una casa en la que vivan mis animales",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "A nosotros nos fascinan las fiestas grandes.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotros nos fascinan las fiestas grandes",
+        "wer": 0.143,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Ella solo bebe cerveza y come nada.",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "ella solo bebe cerveza y come nada",
+        "wer": 0.25,
+        "cer": 0.108,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustarían las precias cajas.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustarían las precias cajas",
+        "wer": 0.778,
+        "cer": 0.467,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Cruza a la derecha y sigue el toro resto.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "cruza a la derecha y sigue el toro resto",
+        "wer": 0.444,
+        "cer": 0.289,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "Ello ha terminado as pintar su apartamento.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "ello ha terminado as pintar su apartamento",
+        "wer": 0.286,
+        "cer": 0.071,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "Me gustaría hacer mas calor pronto.",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "me gustaría hacer mas calor pronto",
+        "wer": 0.444,
+        "cer": 0.327,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El niño que se murio del gato y esta triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el niño que se murio del gato y esta triste",
+        "wer": 0.545,
+        "cer": 0.239,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "Un amigo me ha cuidado a los niños.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "un amigo me ha cuidado a los niños",
+        "wer": 0.8,
+        "cer": 0.455,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "El Gato Negro fuera perseguido por El Perro.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "el gato negro fuera perseguido por el perro",
+        "wer": 0.3,
+        "cer": 0.204,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "Antes de tener su líder, limpiar el cuarto.",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "antes de tener su líder limpiar el cuarto",
+        "wer": 0.6,
+        "cer": 0.373,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "La cantidad de per de personas que fuman es",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "la cantidad de per de personas que fuman es",
+        "wer": 0.5,
+        "cer": 0.404,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Después de llegar a la casa, después del trabajo, come la cena.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "después de llegar a la casa después del trabajo come la cena",
+        "wer": 0.3,
+        "cer": 0.265,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "El ladrón que atrapó con la publicidad era famosa.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "el ladrón que atrapó con la publicidad era famosa",
+        "wer": 0.444,
+        "cer": 0.289,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "Le pedí a un amigo que me ayuden la torre.",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "le pedí a un amigo que me ayuden la torre",
+        "wer": 0.273,
+        "cer": 0.196,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "El pruebo no fue difícil, me jan dicho.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "el pruebo no fue difícil me jan dicho",
+        "wer": 0.4,
+        "cer": 0.388,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "Serías tan amable, puede darme el libro en el meso.",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "serías tan amable puede darme el libro en el meso",
+        "wer": 0.417,
+        "cer": 0.255,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "Hay mucha gente que no toma nada para el desayuno.",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "hay mucha gente que no toma nada para el desayuno",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      }
+    ]
+  },
+  {
+    "audio_id": "038015_EIT-1A",
+    "model": "assemblyai_disfluencies",
+    "num_sentences": 30,
+    "wer": 0.418,
+    "cer": 0.239,
+    "ser": 0.9,
+    "exact_matches": 3,
+    "per_sentence": [
+      {
+        "sentence_num": 1,
+        "stimulus": "Quiero cortarme el pelo",
+        "transcription": "Quiero cortarme a pelo.",
+        "normalized_ref": "quiero cortarme el pelo",
+        "normalized_hyp": "quiero cortarme a pelo",
+        "wer": 0.25,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 2,
+        "stimulus": "El libro está en la mesa",
+        "transcription": "Alipro star namisa.",
+        "normalized_ref": "el libro está en la mesa",
+        "normalized_hyp": "alipro star namisa",
+        "wer": 1.0,
+        "cer": 0.5,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 3,
+        "stimulus": "El carro lo tiene Pedro",
+        "transcription": "Il carro non tiene pelo.",
+        "normalized_ref": "el carro lo tiene pedro",
+        "normalized_hyp": "il carro non tiene pelo",
+        "wer": 0.6,
+        "cer": 0.217,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 4,
+        "stimulus": "El se ducha cada mañana",
+        "transcription": "El se ducha cada mañana.",
+        "normalized_ref": "el se ducha cada mañana",
+        "normalized_hyp": "el se ducha cada mañana",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 5,
+        "stimulus": "¿Qué dice usted que va a hacer hoy?",
+        "transcription": "¿Qué dice ustedes que va a ser hoy?",
+        "normalized_ref": "qué dice usted que va a hacer hoy",
+        "normalized_hyp": "qué dice ustedes que va a ser hoy",
+        "wer": 0.25,
+        "cer": 0.152,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 6,
+        "stimulus": "Dudo que sepa manejar muy bien",
+        "transcription": "To je to, kaj se pa mana harobijem.",
+        "normalized_ref": "dudo que sepa manejar muy bien",
+        "normalized_hyp": "to je to kaj se pa mana harobijem",
+        "wer": 1.333,
+        "cer": 0.667,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 7,
+        "stimulus": "Las calles de esta ciudad son muy anchas",
+        "transcription": "Las calles de esta ciudad son muy anchas.",
+        "normalized_ref": "las calles de esta ciudad son muy anchas",
+        "normalized_hyp": "las calles de esta ciudad son muy anchas",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      },
+      {
+        "sentence_num": 8,
+        "stimulus": "Puede que llueva mañana todo el día",
+        "transcription": "Puede que lleva mañana todo al día.",
+        "normalized_ref": "puede que llueva mañana todo el día",
+        "normalized_hyp": "puede que lleva mañana todo al día",
+        "wer": 0.286,
+        "cer": 0.057,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 9,
+        "stimulus": "Las casas son muy bonitas pero caras",
+        "transcription": "As casas são muito bonitas, mas caras.",
+        "normalized_ref": "las casas son muy bonitas pero caras",
+        "normalized_hyp": "as casas são muito bonitas mas caras",
+        "wer": 0.571,
+        "cer": 0.278,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 10,
+        "stimulus": "Me gustan las películas que acaban bien",
+        "transcription": "Me gusta las películas que acaban bien.",
+        "normalized_ref": "me gustan las películas que acaban bien",
+        "normalized_hyp": "me gusta las películas que acaban bien",
+        "wer": 0.143,
+        "cer": 0.026,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 11,
+        "stimulus": "El chico con el que yo salgo es español",
+        "transcription": "El chico con esto algo es español.",
+        "normalized_ref": "el chico con el que yo salgo es español",
+        "normalized_hyp": "el chico con esto algo es español",
+        "wer": 0.444,
+        "cer": 0.205,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 12,
+        "stimulus": "Después de cenar me fui a dormir tranquilo",
+        "transcription": "Despues de senar, me fui ad dormir tranquilo.",
+        "normalized_ref": "después de cenar me fui a dormir tranquilo",
+        "normalized_hyp": "despues de senar me fui ad dormir tranquilo",
+        "wer": 0.375,
+        "cer": 0.071,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 13,
+        "stimulus": "Quiero una casa en la que vivan mis animales",
+        "transcription": "Quiero una casa en que vivan mis animales.",
+        "normalized_ref": "quiero una casa en la que vivan mis animales",
+        "normalized_hyp": "quiero una casa en que vivan mis animales",
+        "wer": 0.111,
+        "cer": 0.068,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 14,
+        "stimulus": "A nosotros nos fascinan las fiestas grandiosas",
+        "transcription": "A nosotros nos fascinan las fiestas grandes.",
+        "normalized_ref": "a nosotros nos fascinan las fiestas grandiosas",
+        "normalized_hyp": "a nosotros nos fascinan las fiestas grandes",
+        "wer": 0.143,
+        "cer": 0.087,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 15,
+        "stimulus": "Ella sólo bebe cerveza y no come nada",
+        "transcription": "Ella solo bebe cerveza y come nada.",
+        "normalized_ref": "ella sólo bebe cerveza y no come nada",
+        "normalized_hyp": "ella solo bebe cerveza y come nada",
+        "wer": 0.25,
+        "cer": 0.108,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 16,
+        "stimulus": "Me gustaría que el precio de las casas bajara",
+        "transcription": "Me gustaría las precias cajas.",
+        "normalized_ref": "me gustaría que el precio de las casas bajara",
+        "normalized_hyp": "me gustaría las precias cajas",
+        "wer": 0.667,
+        "cer": 0.444,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 17,
+        "stimulus": "Cruza a la derecha y después sigue todo recto",
+        "transcription": "Cruza a la derecha y sigue el todo resto.",
+        "normalized_ref": "cruza a la derecha y después sigue todo recto",
+        "normalized_hyp": "cruza a la derecha y sigue el todo resto",
+        "wer": 0.333,
+        "cer": 0.267,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 18,
+        "stimulus": "Ella ha terminado de pintar su apartamento",
+        "transcription": "Ello ha terminado asentar su apartamento.",
+        "normalized_ref": "ella ha terminado de pintar su apartamento",
+        "normalized_hyp": "ello ha terminado asentar su apartamento",
+        "wer": 0.429,
+        "cer": 0.143,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 19,
+        "stimulus": "Me gustaría que empezara a hacer más calor pronto",
+        "transcription": "Me gustaría hacer más calor pronto.",
+        "normalized_ref": "me gustaría que empezara a hacer más calor pronto",
+        "normalized_hyp": "me gustaría hacer más calor pronto",
+        "wer": 0.333,
+        "cer": 0.306,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 20,
+        "stimulus": "El niño al que se le murió el gato está triste",
+        "transcription": "El niño que se murió el gato y está triste.",
+        "normalized_ref": "el niño al que se le murió el gato está triste",
+        "normalized_hyp": "el niño que se murió el gato y está triste",
+        "wer": 0.273,
+        "cer": 0.174,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 21,
+        "stimulus": "Una amiga mía cuida a los niños de mi vecino",
+        "transcription": "Un amiga me cuidaro a los ninos.",
+        "normalized_ref": "una amiga mía cuida a los niños de mi vecino",
+        "normalized_hyp": "un amiga me cuidaro a los ninos",
+        "wer": 0.7,
+        "cer": 0.432,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 22,
+        "stimulus": "El gato que era negro fue perseguido por el perro",
+        "transcription": "O gato preto foi perseguido pelo gato.",
+        "normalized_ref": "el gato que era negro fue perseguido por el perro",
+        "normalized_hyp": "o gato preto foi perseguido pelo gato",
+        "wer": 0.8,
+        "cer": 0.449,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 23,
+        "stimulus": "Antes de poder salir él tiene que limpiar su cuarto",
+        "transcription": "Antistatien, salir, limpiar el quarto.",
+        "normalized_ref": "antes de poder salir él tiene que limpiar su cuarto",
+        "normalized_hyp": "antistatien salir limpiar el quarto",
+        "wer": 0.8,
+        "cer": 0.49,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 24,
+        "stimulus": "La cantidad de personas que fuman ha disminuido",
+        "transcription": "La cantidad de personas que fuman es.",
+        "normalized_ref": "la cantidad de personas que fuman ha disminuido",
+        "normalized_hyp": "la cantidad de personas que fuman es",
+        "wer": 0.25,
+        "cer": 0.255,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 25,
+        "stimulus": "Después de llegar a casa del trabajo tomé la cena",
+        "transcription": "Después de llegar a la casa, después del trabajo, come la cena.",
+        "normalized_ref": "después de llegar a casa del trabajo tomé la cena",
+        "normalized_hyp": "después de llegar a la casa después del trabajo come la cena",
+        "wer": 0.3,
+        "cer": 0.265,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 26,
+        "stimulus": "El ladrón al que atrapó la policía era famoso",
+        "transcription": "El ladrón que atrapó con la publicidad era famosa.",
+        "normalized_ref": "el ladrón al que atrapó la policía era famoso",
+        "normalized_hyp": "el ladrón que atrapó con la publicidad era famosa",
+        "wer": 0.444,
+        "cer": 0.289,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 27,
+        "stimulus": "Le pedí a un amigo que me ayudara con la tarea",
+        "transcription": "Le pedí a un amigo que me ayudan la tarea.",
+        "normalized_ref": "le pedí a un amigo que me ayudara con la tarea",
+        "normalized_hyp": "le pedí a un amigo que me ayudan la tarea",
+        "wer": 0.182,
+        "cer": 0.109,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 28,
+        "stimulus": "El examen no fue tan difícil como me habían dicho",
+        "transcription": "Eu provo que não foi difícil, mejam dito.",
+        "normalized_ref": "el examen no fue tan difícil como me habían dicho",
+        "normalized_hyp": "eu provo que não foi difícil mejam dito",
+        "wer": 0.9,
+        "cer": 0.592,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 29,
+        "stimulus": "¿Serías tan amable de darme el libro que está en la mesa?",
+        "transcription": "Series tan amable. ¿Puede darme el libro en el mesa?",
+        "normalized_ref": "serías tan amable de darme el libro que está en la mesa",
+        "normalized_hyp": "series tan amable puede darme el libro en el mesa",
+        "wer": 0.417,
+        "cer": 0.273,
+        "exact_match": false
+      },
+      {
+        "sentence_num": 30,
+        "stimulus": "Hay mucha gente que no toma nada para el desayuno",
+        "transcription": "Hay mucha gente que no toma nada para el desayuno.",
+        "normalized_ref": "hay mucha gente que no toma nada para el desayuno",
+        "normalized_hyp": "hay mucha gente que no toma nada para el desayuno",
+        "wer": 0.0,
+        "cer": 0.0,
+        "exact_match": true
+      }
+    ]
+  }
+]

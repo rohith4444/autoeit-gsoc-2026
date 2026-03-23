@@ -1,0 +1,187 @@
+{
+  "audio_id": "038011_EIT-1A",
+  "threshold": 0.253,
+  "total_segments": 30,
+  "segments": [
+    {
+      "start_sec": 0,
+      "end_sec": 4.1,
+      "duration_sec": 4.1,
+      "avg_score": 0.671
+    },
+    {
+      "start_sec": 7.0,
+      "end_sec": 10.9,
+      "duration_sec": 3.9,
+      "avg_score": 0.424
+    },
+    {
+      "start_sec": 14.6,
+      "end_sec": 18.5,
+      "duration_sec": 3.9,
+      "avg_score": 0.43
+    },
+    {
+      "start_sec": 22.6,
+      "end_sec": 27.1,
+      "duration_sec": 4.5,
+      "avg_score": 0.388
+    },
+    {
+      "start_sec": 31.6,
+      "end_sec": 36.1,
+      "duration_sec": 4.5,
+      "avg_score": 0.397
+    },
+    {
+      "start_sec": 40.6,
+      "end_sec": 46.1,
+      "duration_sec": 5.5,
+      "avg_score": 0.385
+    },
+    {
+      "start_sec": 50.4,
+      "end_sec": 57.3,
+      "duration_sec": 6.9,
+      "avg_score": 0.41
+    },
+    {
+      "start_sec": 61.6,
+      "end_sec": 66.1,
+      "duration_sec": 4.5,
+      "avg_score": 0.426
+    },
+    {
+      "start_sec": 73.0,
+      "end_sec": 78.5,
+      "duration_sec": 5.5,
+      "avg_score": 0.434
+    },
+    {
+      "start_sec": 84.8,
+      "end_sec": 89.5,
+      "duration_sec": 4.7,
+      "avg_score": 0.401
+    },
+    {
+      "start_sec": 96.8,
+      "end_sec": 104.1,
+      "duration_sec": 7.3,
+      "avg_score": 0.398
+    },
+    {
+      "start_sec": 109.4,
+      "end_sec": 116.9,
+      "duration_sec": 7.5,
+      "avg_score": 0.42
+    },
+    {
+      "start_sec": 121.8,
+      "end_sec": 127.5,
+      "duration_sec": 5.7,
+      "avg_score": 0.405
+    },
+    {
+      "start_sec": 134.4,
+      "end_sec": 139.1,
+      "duration_sec": 4.7,
+      "avg_score": 0.432
+    },
+    {
+      "start_sec": 147.8,
+      "end_sec": 153.7,
+      "duration_sec": 5.9,
+      "avg_score": 0.385
+    },
+    {
+      "start_sec": 161.6,
+      "end_sec": 168.9,
+      "duration_sec": 7.3,
+      "avg_score": 0.441
+    },
+    {
+      "start_sec": 176.0,
+      "end_sec": 184.5,
+      "duration_sec": 8.5,
+      "avg_score": 0.293
+    },
+    {
+      "start_sec": 190.2,
+      "end_sec": 197.7,
+      "duration_sec": 7.5,
+      "avg_score": 0.444
+    },
+    {
+      "start_sec": 202.2,
+      "end_sec": 209.7,
+      "duration_sec": 7.5,
+      "avg_score": 0.324
+    },
+    {
+      "start_sec": 216.6,
+      "end_sec": 222.7,
+      "duration_sec": 6.1,
+      "avg_score": 0.398
+    },
+    {
+      "start_sec": 231.2,
+      "end_sec": 238.1,
+      "duration_sec": 6.9,
+      "avg_score": 0.426
+    },
+    {
+      "start_sec": 244.8,
+      "end_sec": 253.3,
+      "duration_sec": 8.5,
+      "avg_score": 0.337
+    },
+    {
+      "start_sec": 260.0,
+      "end_sec": 270.5,
+      "duration_sec": 10.5,
+      "avg_score": 0.299
+    },
+    {
+      "start_sec": 276.0,
+      "end_sec": 282.9,
+      "duration_sec": 6.9,
+      "avg_score": 0.389
+    },
+    {
+      "start_sec": 291.0,
+      "end_sec": 298.7,
+      "duration_sec": 7.7,
+      "avg_score": 0.323
+    },
+    {
+      "start_sec": 308.0,
+      "end_sec": 317.1,
+      "duration_sec": 9.1,
+      "avg_score": 0.368
+    },
+    {
+      "start_sec": 322.4,
+      "end_sec": 329.1,
+      "duration_sec": 6.7,
+      "avg_score": 0.473
+    },
+    {
+      "start_sec": 337.8,
+      "end_sec": 343.3,
+      "duration_sec": 5.5,
+      "avg_score": 0.351
+    },
+    {
+      "start_sec": 353.4,
+      "end_sec": 358.7,
+      "duration_sec": 5.3,
+      "avg_score": 0.439
+    },
+    {
+      "start_sec": 368.2,
+      "end_sec": 373.3,
+      "duration_sec": 5.1,
+      "avg_score": 0.497
+    }
+  ]
+}

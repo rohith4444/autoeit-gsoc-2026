@@ -1,0 +1,182 @@
+[
+  {
+    "sentence_num": 1,
+    "text": "Quiero recortrarme a Bello.",
+    "source_file": "response_01.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 2,
+    "text": "El libro esta en la mesa.",
+    "source_file": "response_02.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 3,
+    "text": "El carro no tiene pelo.",
+    "source_file": "response_03.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 4,
+    "text": "Elsa ducha cada mañana.",
+    "source_file": "response_04.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 5,
+    "text": "¿Que dice Ustedes que va ser roy?",
+    "source_file": "response_05.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 6,
+    "text": "Tuvo que sepa manajar bien.",
+    "source_file": "response_06.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 7,
+    "text": "Las calles de esta ciudad son muy anchas.",
+    "source_file": "response_07.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 8,
+    "text": "Puede que lleva mañana todo el día.",
+    "source_file": "response_08.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 9,
+    "text": "Las casas son muy bonitas, pero caras.",
+    "source_file": "response_09.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 10,
+    "text": "Me gusta las películas que acaban bien.",
+    "source_file": "response_10.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 11,
+    "text": "El chico con esto algo es español.",
+    "source_file": "response_11.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 12,
+    "text": "Después de cenar, me fui a dormir tranquilo.",
+    "source_file": "response_12.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 13,
+    "text": "Quiero una casa en la que vivan mis animales.",
+    "source_file": "response_13.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 14,
+    "text": "A nosotros nos fascinan las fiestas grandes.",
+    "source_file": "response_14.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 15,
+    "text": "Ella solo bebe cerveza y come nada.",
+    "source_file": "response_15.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 16,
+    "text": "Me gustarían las precias cajas.",
+    "source_file": "response_16.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 17,
+    "text": "Cruza a la derecha y sigue el toro resto.",
+    "source_file": "response_17.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 18,
+    "text": "Ello ha terminado as pintar su apartamento.",
+    "source_file": "response_18.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 19,
+    "text": "Me gustaría hacer mas calor pronto.",
+    "source_file": "response_19.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 20,
+    "text": "El niño que se murio del gato y esta triste.",
+    "source_file": "response_20.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 21,
+    "text": "Un amigo me ha cuidado a los niños.",
+    "source_file": "response_21.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 22,
+    "text": "El Gato Negro fuera perseguido por El Perro.",
+    "source_file": "response_22.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 23,
+    "text": "Antes de tener su líder, limpiar el cuarto.",
+    "source_file": "response_23.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 24,
+    "text": "La cantidad de per de personas que fuman es",
+    "source_file": "response_24.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 25,
+    "text": "Después de llegar a la casa, después del trabajo, come la cena.",
+    "source_file": "response_25.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 26,
+    "text": "El ladrón que atrapó con la publicidad era famosa.",
+    "source_file": "response_26.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 27,
+    "text": "Le pedí a un amigo que me ayuden la torre.",
+    "source_file": "response_27.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 28,
+    "text": "El pruebo no fue difícil, me jan dicho.",
+    "source_file": "response_28.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 29,
+    "text": "Serías tan amable, puede darme el libro en el meso.",
+    "source_file": "response_29.wav",
+    "flagged": false
+  },
+  {
+    "sentence_num": 30,
+    "text": "Hay mucha gente que no toma nada para el desayuno.",
+    "source_file": "response_30.wav",
+    "flagged": false
+  }
+]

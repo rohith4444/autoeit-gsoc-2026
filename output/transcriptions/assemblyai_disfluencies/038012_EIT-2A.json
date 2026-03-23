@@ -1,0 +1,183 @@
+[
+  {
+    "sentence_num": 1,
+    "text": "Quiero cortar el pelo.",
+    "source_file": "response_01.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 2,
+    "text": "El libro Estala mesa.",
+    "source_file": "response_02.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 3,
+    "text": "Il carro lo tiene a pelo.",
+    "source_file": "response_03.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 4,
+    "text": "El Seduchara manana.",
+    "source_file": "response_04.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 5,
+    "text": "[no response]",
+    "source_file": "response_05.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 6,
+    "text": "Duros de calzar también.",
+    "source_file": "response_06.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 7,
+    "text": "Lacayos center.",
+    "source_file": "response_07.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 8,
+    "text": "Pueblo.",
+    "source_file": "response_08.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 9,
+    "text": "Las casas son bonitas, pero caras.",
+    "source_file": "response_09.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 10,
+    "text": "Me gustan las películas. Peca bien.",
+    "source_file": "response_10.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 11,
+    "text": "El chico esponal es español.",
+    "source_file": "response_11.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 12,
+    "text": "Después llegar, dormía.",
+    "source_file": "response_12.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 13,
+    "text": "Quiero la casa esta a mi, animales.",
+    "source_file": "response_13.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 14,
+    "text": "Lost nosotros.",
+    "source_file": "response_14.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 15,
+    "text": "Conversion del casa.",
+    "source_file": "response_15.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 16,
+    "text": "Me gustaría que los pesos me están not.",
+    "source_file": "response_16.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 17,
+    "text": "Cruzar a la derecha.",
+    "source_file": "response_17.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 18,
+    "text": "He terminado espas.",
+    "source_file": "response_18.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 19,
+    "text": "Me gustaría hacer pincar esta gustaría pronto.",
+    "source_file": "response_19.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 20,
+    "text": "El niño sirio gato está muy triste.",
+    "source_file": "response_20.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 21,
+    "text": "[TRANSCRIPTION FAILED]",
+    "source_file": "response_21.wav",
+    "provider": "assemblyai_disfluencies",
+    "error": "Server disconnected without sending a response."
+  },
+  {
+    "sentence_num": 22,
+    "text": "El gato negro y la pedal.",
+    "source_file": "response_22.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 23,
+    "text": "[no response]",
+    "source_file": "response_23.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 24,
+    "text": "Lacant liars. Uh.",
+    "source_file": "response_24.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 25,
+    "text": "This was. Lacena.",
+    "source_file": "response_25.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 26,
+    "text": "Water policia era for so.",
+    "source_file": "response_26.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 27,
+    "text": "레비디, 레우나, 레미가,",
+    "source_file": "response_27.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 28,
+    "text": "El.",
+    "source_file": "response_28.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 29,
+    "text": "[no response]",
+    "source_file": "response_29.wav",
+    "provider": "assemblyai_disfluencies"
+  },
+  {
+    "sentence_num": 30,
+    "text": "Pero.",
+    "source_file": "response_30.wav",
+    "provider": "assemblyai_disfluencies"
+  }
+]
