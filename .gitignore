@@ -37,6 +37,4 @@ pretrained_models/
 .pytest_cache/
 .ruff_cache/
 
-# Large generated audio files (recreate by running pipeline)
-data/trimmed/
-data/participant_segments/
+
